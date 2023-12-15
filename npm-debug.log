@@ -1,0 +1,1787 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   'node',
+1 verbose cli   'socket.io',
+1 verbose cli   'express' ]
+2 info using npm@2.14.4
+3 info using node@v4.1.2
+4 verbose install initial load of C:\Users\Pavani Mehra\Desktop\dc\package.json
+5 warn package.json dc@1.0.0 No repository field.
+6 warn package.json dc@1.0.0 No README data
+7 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\accepts\package.json
+8 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\after\package.json
+9 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\array-flatten\package.json
+10 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\arraybuffer.slice\package.json
+11 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\async-limiter\package.json
+12 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\backo2\package.json
+13 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\base64-arraybuffer\package.json
+14 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\base64id\package.json
+15 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\better-assert\package.json
+16 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\blob\package.json
+17 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\body-parser\package.json
+18 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\bytes\package.json
+19 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\callsite\package.json
+20 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\component-bind\package.json
+21 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\component-emitter\package.json
+22 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\component-inherit\package.json
+23 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\content-disposition\package.json
+24 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\content-type\package.json
+25 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\cookie\package.json
+26 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\cookie-signature\package.json
+27 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\debug\package.json
+28 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\depd\package.json
+29 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\destroy\package.json
+30 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\ee-first\package.json
+31 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\encodeurl\package.json
+32 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\engine.io\package.json
+33 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\engine.io-client\package.json
+34 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\engine.io-parser\package.json
+35 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\escape-html\package.json
+36 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\etag\package.json
+37 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\express\package.json
+38 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\finalhandler\package.json
+39 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\forwarded\package.json
+40 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\fresh\package.json
+41 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\has-binary2\package.json
+42 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\has-cors\package.json
+43 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\http-errors\package.json
+44 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\iconv-lite\package.json
+45 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\indexof\package.json
+46 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\inherits\package.json
+47 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\ipaddr.js\package.json
+48 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\isarray\package.json
+49 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\media-typer\package.json
+50 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\merge-descriptors\package.json
+51 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\methods\package.json
+52 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\mime\package.json
+53 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\mime-db\package.json
+54 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\mime-types\package.json
+55 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\ms\package.json
+56 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\negotiator\package.json
+57 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\object-component\package.json
+58 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\on-finished\package.json
+59 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\parseqs\package.json
+60 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\parseuri\package.json
+61 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\parseurl\package.json
+62 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\path-to-regexp\package.json
+63 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\proxy-addr\package.json
+64 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\qs\package.json
+65 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\range-parser\package.json
+66 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\raw-body\package.json
+67 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\safe-buffer\package.json
+68 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\safer-buffer\package.json
+69 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\send\package.json
+70 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\serve-static\package.json
+71 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\setprototypeof\package.json
+72 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io\package.json
+73 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io-adapter\package.json
+74 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io-client\package.json
+75 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io-parser\package.json
+76 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\statuses\package.json
+77 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\to-array\package.json
+78 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\type-is\package.json
+79 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\unpipe\package.json
+80 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\utils-merge\package.json
+81 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\vary\package.json
+82 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\ws\package.json
+83 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\xmlhttprequest-ssl\package.json
+84 verbose installManyTop reading scoped package data from C:\Users\Pavani Mehra\Desktop\dc\node_modules\yeast\package.json
+85 info package.json better-assert@1.0.2 No license field.
+86 info package.json base64-arraybuffer@0.1.5 No license field.
+87 info package.json component-bind@1.0.0 No license field.
+88 info package.json component-inherit@0.0.3 No license field.
+89 info package.json callsite@1.0.0 No repository field.
+90 info package.json callsite@1.0.0 No license field.
+91 info package.json has-binary2@1.0.3 No repository field.
+92 info package.json indexof@0.0.1 No repository field.
+93 info package.json indexof@0.0.1 No license field.
+94 info package.json object-component@0.0.3 No repository field.
+95 info package.json object-component@0.0.3 No license field.
+96 info package.json to-array@0.1.4 No license field.
+97 info package.json xmlhttprequest-ssl@1.5.5 No license field.
+98 verbose readDependencies loading dependencies from C:\Users\Pavani Mehra\Desktop\dc\package.json
+99 silly cache add args [ 'node', null ]
+100 verbose cache add spec node
+101 verbose install socket.io is installed as 2.2.0
+102 silly cache add args [ 'socket.io@^2.2.0', null ]
+103 verbose cache add spec socket.io@^2.2.0
+104 verbose install express is installed as 4.16.4
+105 silly cache add args [ 'express@^4.16.4', null ]
+106 verbose cache add spec express@^4.16.4
+107 silly cache add parsed spec Result {
+107 silly cache add   raw: 'socket.io@^2.2.0',
+107 silly cache add   scope: null,
+107 silly cache add   name: 'socket.io',
+107 silly cache add   rawSpec: '^2.2.0',
+107 silly cache add   spec: '>=2.2.0 <3.0.0',
+107 silly cache add   type: 'range' }
+108 silly addNamed socket.io@>=2.2.0 <3.0.0
+109 verbose addNamed ">=2.2.0 <3.0.0" is a valid semver range for socket.io
+110 silly addNameRange { name: 'socket.io', range: '>=2.2.0 <3.0.0', hasData: false }
+111 silly mapToRegistry name socket.io
+112 silly mapToRegistry using default registry
+113 silly mapToRegistry registry https://registry.npmjs.org/
+114 silly mapToRegistry uri https://registry.npmjs.org/socket.io
+115 verbose addNameRange registry:https://registry.npmjs.org/socket.io not in flight; fetching
+116 silly cache add parsed spec Result {
+116 silly cache add   raw: 'express@^4.16.4',
+116 silly cache add   scope: null,
+116 silly cache add   name: 'express',
+116 silly cache add   rawSpec: '^4.16.4',
+116 silly cache add   spec: '>=4.16.4 <5.0.0',
+116 silly cache add   type: 'range' }
+117 silly addNamed express@>=4.16.4 <5.0.0
+118 verbose addNamed ">=4.16.4 <5.0.0" is a valid semver range for express
+119 silly addNameRange { name: 'express', range: '>=4.16.4 <5.0.0', hasData: false }
+120 silly mapToRegistry name express
+121 silly mapToRegistry using default registry
+122 silly mapToRegistry registry https://registry.npmjs.org/
+123 silly mapToRegistry uri https://registry.npmjs.org/express
+124 verbose addNameRange registry:https://registry.npmjs.org/express not in flight; fetching
+125 silly cache add parsed spec Result {
+125 silly cache add   raw: 'node',
+125 silly cache add   scope: null,
+125 silly cache add   name: 'node',
+125 silly cache add   rawSpec: '',
+125 silly cache add   spec: '*',
+125 silly cache add   type: 'range' }
+126 silly addNamed node@*
+127 verbose addNamed "*" is a valid semver range for node
+128 silly addNameRange { name: 'node', range: '*', hasData: false }
+129 silly mapToRegistry name node
+130 silly mapToRegistry using default registry
+131 silly mapToRegistry registry https://registry.npmjs.org/
+132 silly mapToRegistry uri https://registry.npmjs.org/node
+133 verbose addNameRange registry:https://registry.npmjs.org/node not in flight; fetching
+134 verbose request uri https://registry.npmjs.org/socket.io
+135 verbose request no auth needed
+136 info attempt registry request try #1 at 5:39:23 PM
+137 verbose request id fb55315c561fedbb
+138 verbose etag W/"7e41eda8b757ab8db27a6dd20e33fed4"
+139 verbose lastModified Wed, 28 Nov 2018 23:16:16 GMT
+140 http request GET https://registry.npmjs.org/socket.io
+141 verbose request uri https://registry.npmjs.org/express
+142 verbose request no auth needed
+143 info attempt registry request try #1 at 5:39:23 PM
+144 verbose etag W/"6c2e51d5eba6113fe39b480ee2fe25ba"
+145 verbose lastModified Thu, 27 Dec 2018 20:16:15 GMT
+146 http request GET https://registry.npmjs.org/express
+147 verbose request uri https://registry.npmjs.org/node
+148 verbose request no auth needed
+149 info attempt registry request try #1 at 5:39:23 PM
+150 verbose etag W/"cfdea7e70dfd5331ce08d4fec563166d"
+151 verbose lastModified Sun, 30 Dec 2018 02:35:23 GMT
+152 http request GET https://registry.npmjs.org/node
+153 http 304 https://registry.npmjs.org/socket.io
+154 silly get cb [ 304,
+154 silly get   { date: 'Sun, 30 Dec 2018 11:30:18 GMT',
+154 silly get     connection: 'keep-alive',
+154 silly get     'set-cookie': [ '__cfduid=da960c79298d04b3d8a037ca017bcf9151546169418; expires=Mon, 30-Dec-19 11:30:18 GMT; path=/; domain=.registry.npmjs.org; HttpOnly' ],
+154 silly get     'cf-cache-status': 'HIT',
+154 silly get     'cache-control': 'max-age=300',
+154 silly get     'cf-ray': '49142c719bab8a79-BOM',
+154 silly get     etag: '"7e41eda8b757ab8db27a6dd20e33fed4"',
+154 silly get     'expect-ct': 'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+154 silly get     'last-modified': 'Wed, 28 Nov 2018 23:16:16 GMT',
+154 silly get     vary: 'accept-encoding, accept',
+154 silly get     'x-amz-meta-rev': '1144-ad030effa2041cb8d9a7d878ab69d13b',
+154 silly get     server: 'cloudflare' } ]
+155 verbose etag https://registry.npmjs.org/socket.io from cache
+156 verbose get saving socket.io to C:\Users\Pavani Mehra\AppData\Roaming\npm-cache\registry.npmjs.org\socket.io\.cache.json
+157 http 304 https://registry.npmjs.org/express
+158 silly get cb [ 304,
+158 silly get   { date: 'Sun, 30 Dec 2018 11:30:18 GMT',
+158 silly get     connection: 'keep-alive',
+158 silly get     'set-cookie': [ '__cfduid=d5c4fcbc9c936542d44f893fe00aa69971546169418; expires=Mon, 30-Dec-19 11:30:18 GMT; path=/; domain=.registry.npmjs.org; HttpOnly' ],
+158 silly get     'cf-cache-status': 'HIT',
+158 silly get     'cache-control': 'max-age=300',
+158 silly get     'cf-ray': '49142c71a8588a4f-BOM',
+158 silly get     etag: '"6c2e51d5eba6113fe39b480ee2fe25ba"',
+158 silly get     'expect-ct': 'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+158 silly get     'last-modified': 'Thu, 27 Dec 2018 20:16:15 GMT',
+158 silly get     vary: 'accept-encoding, accept',
+158 silly get     'x-amz-meta-rev': '3874-e962d19a12fa15efa2679e228d5af888',
+158 silly get     server: 'cloudflare' } ]
+159 verbose etag https://registry.npmjs.org/express from cache
+160 verbose get saving express to C:\Users\Pavani Mehra\AppData\Roaming\npm-cache\registry.npmjs.org\express\.cache.json
+161 http 304 https://registry.npmjs.org/node
+162 silly get cb [ 304,
+162 silly get   { date: 'Sun, 30 Dec 2018 11:30:18 GMT',
+162 silly get     connection: 'keep-alive',
+162 silly get     'set-cookie': [ '__cfduid=dd3b9ff37d3290050ab1ce8ce4eeaa4551546169418; expires=Mon, 30-Dec-19 11:30:18 GMT; path=/; domain=.registry.npmjs.org; HttpOnly' ],
+162 silly get     'cf-cache-status': 'HIT',
+162 silly get     'cache-control': 'max-age=300',
+162 silly get     'cf-ray': '49142c71aa798a73-BOM',
+162 silly get     etag: '"cfdea7e70dfd5331ce08d4fec563166d"',
+162 silly get     'expect-ct': 'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+162 silly get     'last-modified': 'Sun, 30 Dec 2018 02:35:23 GMT',
+162 silly get     vary: 'accept-encoding, accept',
+162 silly get     'x-amz-meta-rev': '455-e9c7639e7ac6c639b1cdcfb32fdb291d',
+162 silly get     server: 'cloudflare' } ]
+163 verbose etag https://registry.npmjs.org/node from cache
+164 verbose get saving node to C:\Users\Pavani Mehra\AppData\Roaming\npm-cache\registry.npmjs.org\node\.cache.json
+165 silly addNameRange number 2 { name: 'express', range: '>=4.16.4 <5.0.0', hasData: true }
+166 silly addNameRange versions [ 'express',
+166 silly addNameRange   [ '0.14.0',
+166 silly addNameRange     '0.14.1',
+166 silly addNameRange     '1.0.0',
+166 silly addNameRange     '1.0.1',
+166 silly addNameRange     '1.0.2',
+166 silly addNameRange     '1.0.3',
+166 silly addNameRange     '1.0.4',
+166 silly addNameRange     '1.0.5',
+166 silly addNameRange     '1.0.6',
+166 silly addNameRange     '1.0.7',
+166 silly addNameRange     '1.0.8',
+166 silly addNameRange     '2.0.0',
+166 silly addNameRange     '2.1.0',
+166 silly addNameRange     '2.1.1',
+166 silly addNameRange     '2.2.0',
+166 silly addNameRange     '2.2.1',
+166 silly addNameRange     '2.2.2',
+166 silly addNameRange     '2.3.0',
+166 silly addNameRange     '2.3.1',
+166 silly addNameRange     '2.3.2',
+166 silly addNameRange     '2.3.3',
+166 silly addNameRange     '2.3.4',
+166 silly addNameRange     '2.3.5',
+166 silly addNameRange     '2.3.6',
+166 silly addNameRange     '2.3.7',
+166 silly addNameRange     '2.3.8',
+166 silly addNameRange     '2.3.9',
+166 silly addNameRange     '2.3.10',
+166 silly addNameRange     '2.3.11',
+166 silly addNameRange     '2.3.12',
+166 silly addNameRange     '2.4.0',
+166 silly addNameRange     '2.4.1',
+166 silly addNameRange     '2.4.2',
+166 silly addNameRange     '2.4.3',
+166 silly addNameRange     '2.4.4',
+166 silly addNameRange     '2.4.5',
+166 silly addNameRange     '2.4.6',
+166 silly addNameRange     '2.4.7',
+166 silly addNameRange     '2.5.0',
+166 silly addNameRange     '2.5.1',
+166 silly addNameRange     '2.5.2',
+166 silly addNameRange     '2.5.3',
+166 silly addNameRange     '2.5.4',
+166 silly addNameRange     '2.5.5',
+166 silly addNameRange     '2.5.6',
+166 silly addNameRange     '2.5.7',
+166 silly addNameRange     '2.5.8',
+166 silly addNameRange     '2.5.9',
+166 silly addNameRange     '2.5.10',
+166 silly addNameRange     '2.5.11',
+166 silly addNameRange     '3.0.0',
+166 silly addNameRange     '3.0.1',
+166 silly addNameRange     '3.0.2',
+166 silly addNameRange     '3.0.3',
+166 silly addNameRange     '3.0.4',
+166 silly addNameRange     '3.0.5',
+166 silly addNameRange     '3.0.6',
+166 silly addNameRange     '3.1.0',
+166 silly addNameRange     '3.1.1',
+166 silly addNameRange     '3.1.2',
+166 silly addNameRange     '3.2.0',
+166 silly addNameRange     '3.2.1',
+166 silly addNameRange     '3.2.2',
+166 silly addNameRange     '3.2.3',
+166 silly addNameRange     '3.2.4',
+166 silly addNameRange     '3.2.5',
+166 silly addNameRange     '3.2.6',
+166 silly addNameRange     '3.3.0',
+166 silly addNameRange     '3.3.1',
+166 silly addNameRange     '3.3.2',
+166 silly addNameRange     '3.3.3',
+166 silly addNameRange     '3.3.4',
+166 silly addNameRange     '3.3.5',
+166 silly addNameRange     '3.3.6',
+166 silly addNameRange     '1.0.0-beta',
+166 silly addNameRange     '1.0.0-beta2',
+166 silly addNameRange     '1.0.0-rc',
+166 silly addNameRange     '1.0.0-rc2',
+166 silly addNameRange     '1.0.0-rc3',
+166 silly addNameRange     '1.0.0-rc4',
+166 silly addNameRange     '2.0.0-beta',
+166 silly addNameRange     '2.0.0-beta2',
+166 silly addNameRange     '2.0.0-beta3',
+166 silly addNameRange     '2.0.0-rc',
+166 silly addNameRange     '2.0.0-rc2',
+166 silly addNameRange     '2.0.0-rc3',
+166 silly addNameRange     '3.0.0-alpha1',
+166 silly addNameRange     '3.0.0-alpha2',
+166 silly addNameRange     '3.0.0-alpha3',
+166 silly addNameRange     '3.0.0-alpha4',
+166 silly addNameRange     '3.0.0-alpha5',
+166 silly addNameRange     '3.0.0-beta1',
+166 silly addNameRange     '3.0.0-beta2',
+166 silly addNameRange     '3.0.0-beta3',
+166 silly addNameRange     '3.0.0-beta4',
+166 silly addNameRange     '3.0.0-beta6',
+166 silly addNameRange     '3.0.0-beta7',
+166 silly addNameRange     '3.0.0-rc1',
+166 silly addNameRange     '3.0.0-rc2',
+166 silly addNameRange     '3.0.0-rc3',
+166 silly addNameRange     '3.0.0-rc4',
+166 silly addNameRange     '3.0.0-rc5',
+166 silly addNameRange     '3.3.7',
+166 silly addNameRange     '3.3.8',
+166 silly addNameRange     '3.4.0',
+166 silly addNameRange     '3.4.1',
+166 silly addNameRange     '3.4.2',
+166 silly addNameRange     '3.4.3',
+166 silly addNameRange     '3.4.4',
+166 silly addNameRange     '3.4.5',
+166 silly addNameRange     '3.4.6',
+166 silly addNameRange     '3.4.7',
+166 silly addNameRange     '3.4.8',
+166 silly addNameRange     '4.0.0-rc1',
+166 silly addNameRange     '4.0.0-rc2',
+166 silly addNameRange     '3.5.0',
+166 silly addNameRange     '4.0.0-rc3',
+166 silly addNameRange     '4.0.0-rc4',
+166 silly addNameRange     '3.5.1',
+166 silly addNameRange     '4.0.0',
+166 silly addNameRange     '3.5.2',
+166 silly addNameRange     '4.1.0',
+166 silly addNameRange     '4.1.1',
+166 silly addNameRange     '3.5.3',
+166 silly addNameRange     '4.1.2',
+166 silly addNameRange     '3.6.0',
+166 silly addNameRange     '4.2.0',
+166 silly addNameRange     '3.7.0',
+166 silly addNameRange     '3.8.0',
+166 silly addNameRange     '4.3.0',
+166 silly addNameRange     '4.3.1',
+166 silly addNameRange     '3.8.1',
+166 silly addNameRange     '4.3.2',
+166 silly addNameRange     '3.9.0',
+166 silly addNameRange     '4.4.0',
+166 silly addNameRange     '4.4.1',
+166 silly addNameRange     '3.10.0',
+166 silly addNameRange     '3.10.1',
+166 silly addNameRange     '3.10.2',
+166 silly addNameRange     '3.10.3',
+166 silly addNameRange     '3.10.4',
+166 silly addNameRange     '4.4.2',
+166 silly addNameRange     '3.10.5',
+166 silly addNameRange     '4.4.3',
+166 silly addNameRange     '3.11.0',
+166 silly addNameRange     '4.4.4',
+166 silly addNameRange     '3.12.0',
+166 silly addNameRange     '3.12.1',
+166 silly addNameRange     '4.4.5',
+166 silly addNameRange     '3.13.0',
+166 silly addNameRange     '4.5.0',
+166 silly addNameRange     '4.5.1',
+166 silly addNameRange     '3.14.0',
+166 silly addNameRange     '4.6.0',
+166 silly addNameRange     '4.6.1',
+166 silly addNameRange     '3.15.0',
+166 silly addNameRange     '4.7.0',
+166 silly addNameRange     '3.15.1',
+166 silly addNameRange     '4.7.1',
+166 silly addNameRange     '3.15.2',
+166 silly addNameRange     '4.7.2',
+166 silly addNameRange     '4.7.3',
+166 silly addNameRange     '3.15.3',
+166 silly addNameRange     '4.7.4',
+166 silly addNameRange     '3.16.0',
+166 silly addNameRange     '4.8.0',
+166 silly addNameRange     '3.16.1',
+166 silly addNameRange     '4.8.1',
+166 silly addNameRange     '3.16.2',
+166 silly addNameRange     '4.8.2',
+166 silly addNameRange     '3.16.3',
+166 silly addNameRange     '3.16.4',
+166 silly addNameRange     '4.8.3',
+166 silly addNameRange     '3.16.5',
+166 silly addNameRange     '3.16.6',
+166 silly addNameRange     '4.8.4',
+166 silly addNameRange     '3.16.7',
+166 silly addNameRange     '4.8.5',
+166 silly addNameRange     '3.16.8',
+166 silly addNameRange     '4.8.6',
+166 silly addNameRange     '3.16.9',
+166 silly addNameRange     '4.8.7',
+166 silly addNameRange     '3.16.10',
+166 silly addNameRange     '4.8.8',
+166 silly addNameRange     '3.17.0',
+166 silly addNameRange     '3.17.1',
+166 silly addNameRange     '4.9.0',
+166 silly addNameRange     '3.17.2',
+166 silly addNameRange     '4.9.1',
+166 silly addNameRange     '4.9.2',
+166 silly addNameRange     '3.17.3',
+166 silly addNameRange     '4.9.3',
+166 silly addNameRange     '3.17.4',
+166 silly addNameRange     '4.9.4',
+166 silly addNameRange     '3.17.5',
+166 silly addNameRange     '4.9.5',
+166 silly addNameRange     '3.17.6',
+166 silly addNameRange     '3.17.7',
+166 silly addNameRange     '4.9.6',
+166 silly addNameRange     '4.9.7',
+166 silly addNameRange     '3.17.8',
+166 silly addNameRange     '4.9.8',
+166 silly addNameRange     '3.18.0',
+166 silly addNameRange     '3.18.1',
+166 silly addNameRange     '4.10.0',
+166 silly addNameRange     '3.18.2',
+166 silly addNameRange     '4.10.1',
+166 silly addNameRange     '5.0.0-alpha.1',
+166 silly addNameRange     '3.18.3',
+166 silly addNameRange     '4.10.2',
+166 silly addNameRange     '3.18.4',
+166 silly addNameRange     '4.10.3',
+166 silly addNameRange     '4.10.4',
+166 silly addNameRange     '4.10.5',
+166 silly addNameRange     '3.18.5',
+166 silly addNameRange     '3.18.6',
+166 silly addNameRange     '4.10.6',
+166 silly addNameRange     '4.10.7',
+166 silly addNameRange     '3.19.0',
+166 silly addNameRange     '4.10.8',
+166 silly addNameRange     '4.11.0',
+166 silly addNameRange     '3.19.1',
+166 silly addNameRange     '4.11.1',
+166 silly addNameRange     '3.19.2',
+166 silly addNameRange     '4.11.2',
+166 silly addNameRange     '3.20.0',
+166 silly addNameRange     '4.12.0',
+166 silly addNameRange     '3.20.1',
+166 silly addNameRange     '4.12.1',
+166 silly addNameRange     '4.12.2',
+166 silly addNameRange     '3.20.2',
+166 silly addNameRange     '4.12.3',
+166 silly addNameRange     '3.20.3',
+166 silly addNameRange     '4.12.4',
+166 silly addNameRange     '3.21.0',
+166 silly addNameRange     '4.13.0',
+166 silly addNameRange     '3.21.1',
+166 silly addNameRange     '4.13.1',
+166 silly addNameRange     '5.0.0-alpha.2',
+166 silly addNameRange     '3.21.2',
+166 silly addNameRange     '4.13.2',
+166 silly addNameRange     '4.13.3',
+166 silly addNameRange     '4.13.4',
+166 silly addNameRange     '4.14.0',
+166 silly addNameRange     '4.14.1',
+166 silly addNameRange     '5.0.0-alpha.3',
+166 silly addNameRange     '4.15.0',
+166 silly addNameRange     '5.0.0-alpha.4',
+166 silly addNameRange     '4.15.1',
+166 silly addNameRange     '4.15.2',
+166 silly addNameRange     '5.0.0-alpha.5',
+166 silly addNameRange     '4.15.3',
+166 silly addNameRange     '4.15.4',
+166 silly addNameRange     '4.15.5',
+166 silly addNameRange     '5.0.0-alpha.6',
+166 silly addNameRange     '4.16.0',
+166 silly addNameRange     '4.16.1',
+166 silly addNameRange     '4.16.2',
+166 silly addNameRange     '4.16.3',
+166 silly addNameRange     '4.16.4',
+166 silly addNameRange     '5.0.0-alpha.7' ] ]
+167 silly addNamed express@4.16.4
+168 verbose addNamed "4.16.4" is a plain semver version for express
+169 silly addNameRange number 2 { name: 'node', range: '*', hasData: true }
+170 silly addNameRange versions [ 'node',
+170 silly addNameRange   [ '0.0.0',
+170 silly addNameRange     '0.1.14',
+170 silly addNameRange     '0.1.15',
+170 silly addNameRange     '0.1.16',
+170 silly addNameRange     '0.1.17',
+170 silly addNameRange     '0.1.18',
+170 silly addNameRange     '0.1.19',
+170 silly addNameRange     '0.1.20',
+170 silly addNameRange     '0.1.21',
+170 silly addNameRange     '0.1.22',
+170 silly addNameRange     '0.1.23',
+170 silly addNameRange     '0.1.24',
+170 silly addNameRange     '0.1.25',
+170 silly addNameRange     '0.1.26',
+170 silly addNameRange     '0.1.27',
+170 silly addNameRange     '0.1.28',
+170 silly addNameRange     '0.1.29',
+170 silly addNameRange     '0.1.30',
+170 silly addNameRange     '0.1.31',
+170 silly addNameRange     '0.1.32',
+170 silly addNameRange     '0.1.33',
+170 silly addNameRange     '0.1.90',
+170 silly addNameRange     '0.1.91',
+170 silly addNameRange     '0.1.92',
+170 silly addNameRange     '0.1.93',
+170 silly addNameRange     '0.1.94',
+170 silly addNameRange     '0.1.95',
+170 silly addNameRange     '0.1.96',
+170 silly addNameRange     '0.1.97',
+170 silly addNameRange     '0.1.98',
+170 silly addNameRange     '0.1.99',
+170 silly addNameRange     '0.1.100',
+170 silly addNameRange     '0.1.101',
+170 silly addNameRange     '0.1.102',
+170 silly addNameRange     '0.1.103',
+170 silly addNameRange     '0.1.104',
+170 silly addNameRange     '0.2.0',
+170 silly addNameRange     '0.2.1',
+170 silly addNameRange     '0.2.2',
+170 silly addNameRange     '0.2.3',
+170 silly addNameRange     '0.2.4',
+170 silly addNameRange     '0.2.5',
+170 silly addNameRange     '0.2.6',
+170 silly addNameRange     '0.3.0',
+170 silly addNameRange     '0.3.1',
+170 silly addNameRange     '0.3.2',
+170 silly addNameRange     '0.3.3',
+170 silly addNameRange     '0.3.4',
+170 silly addNameRange     '0.3.5',
+170 silly addNameRange     '0.3.6',
+170 silly addNameRange     '0.3.7',
+170 silly addNameRange     '0.3.8',
+170 silly addNameRange     '0.4.0',
+170 silly addNameRange     '0.4.1',
+170 silly addNameRange     '0.4.2',
+170 silly addNameRange     '0.4.3',
+170 silly addNameRange     '0.4.4',
+170 silly addNameRange     '0.4.5',
+170 silly addNameRange     '0.4.6',
+170 silly addNameRange     '0.4.7',
+170 silly addNameRange     '0.4.8',
+170 silly addNameRange     '0.4.9',
+170 silly addNameRange     '0.4.10',
+170 silly addNameRange     '0.4.11',
+170 silly addNameRange     '0.4.12',
+170 silly addNameRange     '0.5.0',
+170 silly addNameRange     '0.5.1',
+170 silly addNameRange     '0.5.2',
+170 silly addNameRange     '0.5.3',
+170 silly addNameRange     '0.5.4',
+170 silly addNameRange     '0.5.5',
+170 silly addNameRange     '0.5.6',
+170 silly addNameRange     '0.5.7',
+170 silly addNameRange     '0.5.8',
+170 silly addNameRange     '0.5.9',
+170 silly addNameRange     '0.5.10',
+170 silly addNameRange     '0.6.0',
+170 silly addNameRange     '0.6.1',
+170 silly addNameRange     '0.6.2',
+170 silly addNameRange     '0.6.3',
+170 silly addNameRange     '0.6.4',
+170 silly addNameRange     '0.6.5',
+170 silly addNameRange     '0.6.6',
+170 silly addNameRange     '0.6.7',
+170 silly addNameRange     '0.6.8',
+170 silly addNameRange     '0.6.9',
+170 silly addNameRange     '0.6.10',
+170 silly addNameRange     '0.6.11',
+170 silly addNameRange     '0.6.12',
+170 silly addNameRange     '0.6.13',
+170 silly addNameRange     '0.6.14',
+170 silly addNameRange     '0.6.15',
+170 silly addNameRange     '0.6.16',
+170 silly addNameRange     '0.6.17',
+170 silly addNameRange     '0.6.18',
+170 silly addNameRange     '0.6.19',
+170 silly addNameRange     '0.6.20',
+170 silly addNameRange     '0.6.21',
+170 silly addNameRange     '0.7.0',
+170 silly addNameRange     '0.7.1',
+170 silly addNameRange     '0.7.2',
+170 silly addNameRange     '0.7.3',
+170 silly addNameRange     '0.7.4',
+170 silly addNameRange     '0.7.5',
+170 silly addNameRange     '0.7.6',
+170 silly addNameRange     '0.7.7',
+170 silly addNameRange     '0.7.8',
+170 silly addNameRange     '0.7.9',
+170 silly addNameRange     '0.7.10',
+170 silly addNameRange     '0.7.11',
+170 silly addNameRange     '0.7.12',
+170 silly addNameRange     '0.8.0',
+170 silly addNameRange     '0.8.1',
+170 silly addNameRange     '0.8.2',
+170 silly addNameRange     '0.8.3',
+170 silly addNameRange     '0.8.4',
+170 silly addNameRange     '0.8.5',
+170 silly addNameRange     '0.8.6',
+170 silly addNameRange     '0.8.7',
+170 silly addNameRange     '0.8.8',
+170 silly addNameRange     '0.8.9',
+170 silly addNameRange     '0.8.10',
+170 silly addNameRange     '0.8.11',
+170 silly addNameRange     '0.8.12',
+170 silly addNameRange     '0.8.13',
+170 silly addNameRange     '0.8.14',
+170 silly addNameRange     '0.8.15',
+170 silly addNameRange     '0.8.16',
+170 silly addNameRange     '0.8.17',
+170 silly addNameRange     '0.8.18',
+170 silly addNameRange     '0.8.19',
+170 silly addNameRange     '0.8.20',
+170 silly addNameRange     '0.8.21',
+170 silly addNameRange     '0.8.22',
+170 silly addNameRange     '0.8.23',
+170 silly addNameRange     '0.8.24',
+170 silly addNameRange     '0.8.25',
+170 silly addNameRange     '0.8.26',
+170 silly addNameRange     '0.8.27',
+170 silly addNameRange     '0.8.28',
+170 silly addNameRange     '0.9.0',
+170 silly addNameRange     '0.9.1',
+170 silly addNameRange     '0.9.2',
+170 silly addNameRange     '0.9.3',
+170 silly addNameRange     '0.9.4',
+170 silly addNameRange     '0.9.5',
+170 silly addNameRange     '0.9.6',
+170 silly addNameRange     '0.9.7',
+170 silly addNameRange     '0.9.8',
+170 silly addNameRange     '0.9.9',
+170 silly addNameRange     '0.9.10',
+170 silly addNameRange     '0.9.11',
+170 silly addNameRange     '0.9.12',
+170 silly addNameRange     '0.10.0',
+170 silly addNameRange     '0.10.1',
+170 silly addNameRange     '0.10.2',
+170 silly addNameRange     '0.10.3',
+170 silly addNameRange     '0.10.4',
+170 silly addNameRange     '0.10.5',
+170 silly addNameRange     '0.10.6',
+170 silly addNameRange     '0.10.7',
+170 silly addNameRange     '0.10.8',
+170 silly addNameRange     '0.10.9',
+170 silly addNameRange     '0.10.10',
+170 silly addNameRange     '0.10.11',
+170 silly addNameRange     '0.10.12',
+170 silly addNameRange     '0.10.13',
+170 silly addNameRange     '0.10.14',
+170 silly addNameRange     '0.10.15',
+170 silly addNameRange     '0.10.16',
+170 silly addNameRange     '0.10.17',
+170 silly addNameRange     '0.10.18',
+170 silly addNameRange     '0.10.19',
+170 silly addNameRange     '0.10.20',
+170 silly addNameRange     '0.10.21',
+170 silly addNameRange     '0.10.22',
+170 silly addNameRange     '0.10.23',
+170 silly addNameRange     '0.10.24',
+170 silly addNameRange     '0.10.25',
+170 silly addNameRange     '0.10.26',
+170 silly addNameRange     '0.10.27',
+170 silly addNameRange     '0.10.28',
+170 silly addNameRange     '0.10.29',
+170 silly addNameRange     '0.10.30',
+170 silly addNameRange     '0.10.31',
+170 silly addNameRange     '0.10.32',
+170 silly addNameRange     '0.10.33',
+170 silly addNameRange     '0.10.34',
+170 silly addNameRange     '0.10.35',
+170 silly addNameRange     '0.10.36',
+170 silly addNameRange     '0.10.37',
+170 silly addNameRange     '0.10.38',
+170 silly addNameRange     '0.10.39',
+170 silly addNameRange     '0.10.40',
+170 silly addNameRange     '0.10.41',
+170 silly addNameRange     '0.10.42',
+170 silly addNameRange     '0.10.43',
+170 silly addNameRange     '0.10.44',
+170 silly addNameRange     '0.10.45',
+170 silly addNameRange     '0.10.46',
+170 silly addNameRange     '0.10.47',
+170 silly addNameRange     '0.10.48',
+170 silly addNameRange     '0.11.0',
+170 silly addNameRange     '0.11.1',
+170 silly addNameRange     '0.11.2',
+170 silly addNameRange     '0.11.3',
+170 silly addNameRange     '0.11.4',
+170 silly addNameRange     '0.11.5',
+170 silly addNameRange     '0.11.6',
+170 silly addNameRange     '0.11.7',
+170 silly addNameRange     '0.11.8',
+170 silly addNameRange     '0.11.9',
+170 silly addNameRange     '0.11.10',
+170 silly addNameRange     '0.11.11',
+170 silly addNameRange     '0.11.12',
+170 silly addNameRange     '0.11.13',
+170 silly addNameRange     '0.11.14',
+170 silly addNameRange     '0.11.15',
+170 silly addNameRange     '0.11.16',
+170 silly addNameRange     '0.12.0',
+170 silly addNameRange     '0.12.1',
+170 silly addNameRange     '0.12.2',
+170 silly addNameRange     '0.12.3',
+170 silly addNameRange     '0.12.4',
+170 silly addNameRange     '0.12.5',
+170 silly addNameRange     '0.12.6',
+170 silly addNameRange     '0.12.7',
+170 silly addNameRange     '0.12.8',
+170 silly addNameRange     '0.12.9',
+170 silly addNameRange     '0.12.10',
+170 silly addNameRange     '0.12.11',
+170 silly addNameRange     '0.12.12',
+170 silly addNameRange     '0.12.13',
+170 silly addNameRange     '0.12.14',
+170 silly addNameRange     '0.12.15',
+170 silly addNameRange     '0.12.16',
+170 silly addNameRange     '0.12.17',
+170 silly addNameRange     '0.12.18',
+170 silly addNameRange     '4.0.0',
+170 silly addNameRange     '4.1.0',
+170 silly addNameRange     '4.1.1',
+170 silly addNameRange     '4.1.2',
+170 silly addNameRange     '4.2.0',
+170 silly addNameRange     '4.2.1',
+170 silly addNameRange     '4.2.2',
+170 silly addNameRange     '4.2.3',
+170 silly addNameRange     '4.2.4',
+170 silly addNameRange     '4.2.5',
+170 silly addNameRange     '4.2.6',
+170 silly addNameRange     '4.3.0',
+170 silly addNameRange     '4.3.1',
+170 silly addNameRange     '4.3.2',
+170 silly addNameRange     '4.4.0',
+170 silly addNameRange     '4.4.1',
+170 silly addNameRange     '4.4.2',
+170 silly addNameRange     '4.4.3',
+170 silly addNameRange     '4.4.4',
+170 silly addNameRange     '4.4.5',
+170 silly addNameRange     '4.4.6',
+170 silly addNameRange     '4.4.7',
+170 silly addNameRange     '4.5.0',
+170 silly addNameRange     '4.6.0',
+170 silly addNameRange     '4.6.1',
+170 silly addNameRange     '4.6.2',
+170 silly addNameRange     '4.7.0',
+170 silly addNameRange     '4.7.1',
+170 silly addNameRange     '4.7.2',
+170 silly addNameRange     '4.7.3',
+170 silly addNameRange     '4.8.0',
+170 silly addNameRange     '4.8.1',
+170 silly addNameRange     '4.8.2',
+170 silly addNameRange     '4.8.3',
+170 silly addNameRange     '4.8.4',
+170 silly addNameRange     '5.0.0',
+170 silly addNameRange     '5.1.0',
+170 silly addNameRange     '5.1.1',
+170 silly addNameRange     '5.2.0',
+170 silly addNameRange     '5.3.0',
+170 silly addNameRange     '5.4.0',
+170 silly addNameRange     '5.4.1',
+170 silly addNameRange     '5.5.0',
+170 silly addNameRange     '5.6.0',
+170 silly addNameRange     '5.7.0',
+170 silly addNameRange     '5.7.1',
+170 silly addNameRange     '5.8.0',
+170 silly addNameRange     '5.9.0',
+170 silly addNameRange     '5.9.1',
+170 silly addNameRange     '5.10.0',
+170 silly addNameRange     '5.10.1',
+170 silly addNameRange     '5.11.0',
+170 silly addNameRange     '5.11.1',
+170 silly addNameRange     '5.12.0',
+170 silly addNameRange     '6.0.0',
+170 silly addNameRange     '6.1.0',
+170 silly addNameRange     '6.2.0',
+170 silly addNameRange     '6.2.1',
+170 silly addNameRange     '6.2.2',
+170 silly addNameRange     '6.3.0',
+170 silly addNameRange     '6.3.1',
+170 silly addNameRange     '6.4.0',
+170 silly addNameRange     '6.5.0',
+170 silly addNameRange     '6.6.0',
+170 silly addNameRange     '6.7.0',
+170 silly addNameRange     '6.8.0',
+170 silly addNameRange     '6.8.1',
+170 silly addNameRange     '6.9.0',
+170 silly addNameRange     '6.9.1',
+170 silly addNameRange     '6.9.2',
+170 silly addNameRange     '6.9.3',
+170 silly addNameRange     '6.9.4',
+170 silly addNameRange     '6.9.5',
+170 silly addNameRange     '6.10.0',
+170 silly addNameRange     '6.10.1',
+170 silly addNameRange     '6.10.2',
+170 silly addNameRange     '6.10.3',
+170 silly addNameRange     '6.11.0',
+170 silly addNameRange     '6.11.1',
+170 silly addNameRange     '7.0.0',
+170 silly addNameRange     '7.1.0',
+170 silly addNameRange     '7.2.0',
+170 silly addNameRange     '7.2.1',
+170 silly addNameRange     '7.3.0',
+170 silly addNameRange     '7.4.0',
+170 silly addNameRange     '7.5.0',
+170 silly addNameRange     '7.6.0',
+170 silly addNameRange     '7.7.0',
+170 silly addNameRange     '7.7.1',
+170 silly addNameRange     '7.7.2',
+170 silly addNameRange     '7.7.3',
+170 silly addNameRange     '7.7.4',
+170 silly addNameRange     '7.8.0',
+170 silly addNameRange     '7.9.0',
+170 silly addNameRange     '7.10.0',
+170 silly addNameRange     '7.10.1',
+170 silly addNameRange     '8.0.0',
+170 silly addNameRange     '8.1.0',
+170 silly addNameRange     '8.1.1',
+170 silly addNameRange     '8.1.2',
+170 silly addNameRange     '8.1.3',
+170 silly addNameRange     '8.1.4',
+170 silly addNameRange     '8.2.0',
+170 silly addNameRange     '8.2.1',
+170 silly addNameRange     '8.3.0',
+170 silly addNameRange     '8.4.0',
+170 silly addNameRange     '8.5.0',
+170 silly addNameRange     '8.6.0',
+170 silly addNameRange     '8.7.0',
+170 silly addNameRange     '8.8.0',
+170 silly addNameRange     '8.8.1',
+170 silly addNameRange     '8.9.0',
+170 silly addNameRange     '9.0.0',
+170 silly addNameRange     '4.8.6',
+170 silly addNameRange     '6.12.0',
+170 silly addNameRange     '9.1.0',
+170 silly addNameRange     '9.2.0',
+170 silly addNameRange     '8.9.1',
+170 silly addNameRange     '6.12.1',
+170 silly addNameRange     '8.9.2',
+170 silly addNameRange     '4.8.7',
+170 silly addNameRange     '6.12.2',
+170 silly addNameRange     '9.3.0',
+170 silly addNameRange     '8.9.4',
+170 silly addNameRange     '6.12.3',
+170 silly addNameRange     '9.4.0',
+170 silly addNameRange     '9.5.0',
+170 silly addNameRange     '6.13.0',
+170 silly addNameRange     '9.7.0',
+170 silly addNameRange     '9.6.0',
+170 silly addNameRange     '9.6.1',
+170 silly addNameRange     '8.10.0',
+170 silly addNameRange     '9.8.0',
+170 silly addNameRange     '9.9.0',
+170 silly addNameRange     '8.11.0',
+170 silly addNameRange     '6.14.0',
+170 silly addNameRange     '4.9.0',
+170 silly addNameRange     '9.10.0',
+170 silly addNameRange     '8.11.1',
+170 silly addNameRange     '4.9.1',
+170 silly addNameRange     '6.14.1',
+170 silly addNameRange     '9.10.1',
+170 silly addNameRange     '9.11.0',
+170 silly addNameRange     '10.0.0',
+170 silly addNameRange     '6.14.2',
+170 silly addNameRange     '6.11.5',
+170 silly addNameRange     '8.11.2',
+170 silly addNameRange     '10.1.0',
+170 silly addNameRange     '10.2.0',
+170 silly addNameRange     '10.3.0',
+170 silly addNameRange     '10.4.0',
+170 silly addNameRange     '8.11.3',
+170 silly addNameRange     '6.14.3',
+170 silly addNameRange     '9.11.2',
+170 silly addNameRange     '10.4.1',
+170 silly addNameRange     '10.5.0',
+170 silly addNameRange     '10.6.0',
+170 silly addNameRange     '10.7.0',
+170 silly addNameRange     '10.8.0',
+170 silly addNameRange     '8.11.4',
+170 silly addNameRange     '10.9.0',
+170 silly addNameRange     '6.14.4',
+170 silly addNameRange     '10.10.0',
+170 silly addNameRange     '8.12.0',
+170 silly addNameRange     '10.11.0',
+170 silly addNameRange     '10.12.0',
+170 silly addNameRange     '11.0.0',
+170 silly addNameRange     '10.13.0',
+170 silly addNameRange     '11.1.0',
+170 silly addNameRange     '8.13.0',
+170 silly addNameRange     '11.2.0',
+170 silly addNameRange     '6.15.1',
+170 silly addNameRange     '8.14.0',
+170 silly addNameRange     '10.14.0',
+170 silly addNameRange     '11.3.0',
+170 silly addNameRange     '11.4.0',
+170 silly addNameRange     '10.14.1',
+170 silly addNameRange     '11.5.0',
+170 silly addNameRange     '8.14.1',
+170 silly addNameRange     '10.14.2',
+170 silly addNameRange     '11.6.0',
+170 silly addNameRange     '10.15.0',
+170 silly addNameRange     '8.15.0',
+170 silly addNameRange     '6.16.0' ] ]
+171 silly addNamed node@11.6.0
+172 verbose addNamed "11.6.0" is a plain semver version for node
+173 silly addNameRange number 2 { name: 'socket.io', range: '>=2.2.0 <3.0.0', hasData: true }
+174 silly addNameRange versions [ 'socket.io',
+174 silly addNameRange   [ '0.3.8',
+174 silly addNameRange     '0.4.0',
+174 silly addNameRange     '0.4.1',
+174 silly addNameRange     '0.5.1',
+174 silly addNameRange     '0.5.3',
+174 silly addNameRange     '0.6.0',
+174 silly addNameRange     '0.6.1',
+174 silly addNameRange     '0.6.3',
+174 silly addNameRange     '0.6.4',
+174 silly addNameRange     '0.6.5',
+174 silly addNameRange     '0.6.6',
+174 silly addNameRange     '0.6.7',
+174 silly addNameRange     '0.6.8',
+174 silly addNameRange     '0.6.9',
+174 silly addNameRange     '0.6.10',
+174 silly addNameRange     '0.6.11',
+174 silly addNameRange     '0.6.12',
+174 silly addNameRange     '0.6.14',
+174 silly addNameRange     '0.6.15',
+174 silly addNameRange     '0.6.16',
+174 silly addNameRange     '0.6.17',
+174 silly addNameRange     '0.6.18',
+174 silly addNameRange     '0.7.0',
+174 silly addNameRange     '0.7.1',
+174 silly addNameRange     '0.7.2',
+174 silly addNameRange     '0.7.3',
+174 silly addNameRange     '0.7.4',
+174 silly addNameRange     '0.7.5',
+174 silly addNameRange     '0.7.6',
+174 silly addNameRange     '0.7.7',
+174 silly addNameRange     '0.7.8',
+174 silly addNameRange     '0.7.9',
+174 silly addNameRange     '0.7.10',
+174 silly addNameRange     '0.7.11',
+174 silly addNameRange     '0.8.0',
+174 silly addNameRange     '0.8.1',
+174 silly addNameRange     '0.8.2',
+174 silly addNameRange     '0.8.3',
+174 silly addNameRange     '0.8.4',
+174 silly addNameRange     '0.8.5',
+174 silly addNameRange     '0.8.6',
+174 silly addNameRange     '0.8.7',
+174 silly addNameRange     '0.9.0',
+174 silly addNameRange     '0.9.1',
+174 silly addNameRange     '0.9.1-1',
+174 silly addNameRange     '0.9.2',
+174 silly addNameRange     '0.9.3',
+174 silly addNameRange     '0.9.4',
+174 silly addNameRange     '0.9.5',
+174 silly addNameRange     '0.9.6',
+174 silly addNameRange     '0.9.7',
+174 silly addNameRange     '0.9.8',
+174 silly addNameRange     '0.9.9',
+174 silly addNameRange     '0.9.10',
+174 silly addNameRange     '0.9.11',
+174 silly addNameRange     '0.9.12',
+174 silly addNameRange     '0.9.13',
+174 silly addNameRange     '0.9.14',
+174 silly addNameRange     '0.9.15',
+174 silly addNameRange     '0.9.16',
+174 silly addNameRange     '1.0.0-pre',
+174 silly addNameRange     '1.0.0-pre2',
+174 silly addNameRange     '1.0.0-pre3',
+174 silly addNameRange     '1.0.0-pre4',
+174 silly addNameRange     '1.0.0-pre5',
+174 silly addNameRange     '0.9.17',
+174 silly addNameRange     '1.0.0',
+174 silly addNameRange     '1.0.1',
+174 silly addNameRange     '1.0.2',
+174 silly addNameRange     '1.0.3',
+174 silly addNameRange     '1.0.4',
+174 silly addNameRange     '1.0.5',
+174 silly addNameRange     '1.0.6',
+174 silly addNameRange     '1.1.0',
+174 silly addNameRange     '1.2.0',
+174 silly addNameRange     '1.2.1',
+174 silly addNameRange     '1.3.0',
+174 silly addNameRange     '1.3.1',
+174 silly addNameRange     '1.3.2',
+174 silly addNameRange     '1.3.3',
+174 silly addNameRange     '1.3.4',
+174 silly addNameRange     '1.3.5',
+174 silly addNameRange     '1.3.6',
+174 silly addNameRange     '1.3.7',
+174 silly addNameRange     '1.4.0',
+174 silly addNameRange     '1.4.1',
+174 silly addNameRange     '1.4.2',
+174 silly addNameRange     '1.4.3',
+174 silly addNameRange     '1.4.4',
+174 silly addNameRange     '1.4.5',
+174 silly addNameRange     '1.4.6',
+174 silly addNameRange     '1.4.7',
+174 silly addNameRange     '1.4.8',
+174 silly addNameRange     '1.5.0',
+174 silly addNameRange     '1.5.1',
+174 silly addNameRange     '1.6.0',
+174 silly addNameRange     '1.7.0',
+174 silly addNameRange     '1.7.1',
+174 silly addNameRange     '1.7.2',
+174 silly addNameRange     '1.7.3',
+174 silly addNameRange     '0.9.18',
+174 silly addNameRange     '1.7.4',
+174 silly addNameRange     '2.0.0',
+174 silly addNameRange     '2.0.1',
+174 silly addNameRange     '0.9.19',
+174 silly addNameRange     '2.0.2',
+174 silly addNameRange     '2.0.3',
+174 silly addNameRange     '2.0.4',
+174 silly addNameRange     '2.1.0',
+174 silly addNameRange     '2.1.1',
+174 silly addNameRange     '2.2.0' ] ]
+175 silly addNamed socket.io@2.2.0
+176 verbose addNamed "2.2.0" is a plain semver version for socket.io
+177 silly cache afterAdd socket.io@2.2.0
+178 verbose afterAdd C:\Users\Pavani Mehra\AppData\Roaming\npm-cache\socket.io\2.2.0\package\package.json not in flight; writing
+179 silly cache afterAdd express@4.16.4
+180 verbose afterAdd C:\Users\Pavani Mehra\AppData\Roaming\npm-cache\express\4.16.4\package\package.json not in flight; writing
+181 silly cache afterAdd node@11.6.0
+182 verbose afterAdd C:\Users\Pavani Mehra\AppData\Roaming\npm-cache\node\11.6.0\package\package.json not in flight; writing
+183 verbose afterAdd C:\Users\Pavani Mehra\AppData\Roaming\npm-cache\socket.io\2.2.0\package\package.json written
+184 verbose afterAdd C:\Users\Pavani Mehra\AppData\Roaming\npm-cache\express\4.16.4\package\package.json written
+185 verbose afterAdd C:\Users\Pavani Mehra\AppData\Roaming\npm-cache\node\11.6.0\package\package.json written
+186 silly install resolved [ { name: 'socket.io',
+186 silly install resolved     version: '2.2.0',
+186 silly install resolved     description: 'node.js realtime framework server',
+186 silly install resolved     keywords:
+186 silly install resolved      [ 'realtime',
+186 silly install resolved        'framework',
+186 silly install resolved        'websocket',
+186 silly install resolved        'tcp',
+186 silly install resolved        'events',
+186 silly install resolved        'socket',
+186 silly install resolved        'io' ],
+186 silly install resolved     main: './lib/index',
+186 silly install resolved     license: 'MIT',
+186 silly install resolved     repository: { type: 'git', url: 'git://github.com/socketio/socket.io.git' },
+186 silly install resolved     scripts: { test: 'nyc mocha --reporter spec --slow 200 --bail --timeout 10000 test/socket.io.js' },
+186 silly install resolved     dependencies:
+186 silly install resolved      { debug: '~4.1.0',
+186 silly install resolved        'engine.io': '~3.3.1',
+186 silly install resolved        'has-binary2': '~1.0.2',
+186 silly install resolved        'socket.io-adapter': '~1.1.0',
+186 silly install resolved        'socket.io-client': '2.2.0',
+186 silly install resolved        'socket.io-parser': '~3.3.0' },
+186 silly install resolved     devDependencies:
+186 silly install resolved      { 'expect.js': '0.3.1',
+186 silly install resolved        mocha: '^3.5.3',
+186 silly install resolved        nyc: '^11.2.1',
+186 silly install resolved        superagent: '^3.8.2',
+186 silly install resolved        supertest: '^3.0.0' },
+186 silly install resolved     contributors: [ [Object], [Object], [Object], [Object] ],
+186 silly install resolved     gitHead: 'df05b73bb93d7c34c758504001f869cb156703d5',
+186 silly install resolved     bugs: { url: 'https://github.com/socketio/socket.io/issues' },
+186 silly install resolved     homepage: 'https://github.com/socketio/socket.io#readme',
+186 silly install resolved     _id: 'socket.io@2.2.0',
+186 silly install resolved     _npmVersion: '6.4.1',
+186 silly install resolved     _nodeVersion: '10.13.0',
+186 silly install resolved     _npmUser:
+186 silly install resolved      { name: 'darrachequesne',
+186 silly install resolved        email: 'damien.arrachequesne@gmail.com' },
+186 silly install resolved     dist:
+186 silly install resolved      { integrity: 'sha512-wxXrIuZ8AILcn+f1B4ez4hJTPG24iNgxBBDaJfT6MsyOhVYiTXWexGoPkd87ktJG8kQEcL/NBvRi64+9k4Kc0w==',
+186 silly install resolved        shasum: 'f0f633161ef6712c972b307598ecd08c9b1b4d5b',
+186 silly install resolved        tarball: 'https://registry.npmjs.org/socket.io/-/socket.io-2.2.0.tgz',
+186 silly install resolved        fileCount: 8,
+186 silly install resolved        unpackedSize: 55917,
+186 silly install resolved        'npm-signature': '-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJb/yG9CRA9TVsSAnZWagAAmb8P/iRNrZ3/eWRD6myZ19Iq\nJvqMUhEasgCr60lVe+rAlsSNylULbdX8MiMIDBbPLuXF9POfV/yBEFo4MdXO\nst+kza5SfKoNj6spx3LECqpOC6+J60w1kkNt7xQYZINj2YNiX6b1UkSiKJyT\nkKqLGiY9RhYGJW7RcmxVS/sslBtPT9fwgUvW2TBnMk83B48AnLacdlvsdb3T\nCIlUxosgGaSGyb1wmJbrz8kdvZCO68UKeLdIBmEvfYHcyDMfUkPIwFT2CYB4\nHYRdUVfC3t1ift077x+BifsOrqbLMCyRJSV/hQ85C4RDZTIO7KuinETwIWf/\n10gasdSGL0PtR+D/MNJIoIiLKSTz3iRnQ3I0i46mNMbNsN0sLPF92oCEQyTW\nUQYitVIIDCfP48L9dXgV61qaNwuGiMMcniF9CepYfheHxd93KUIY1AYuQCg+\nGgjxs2Bh8gsYyljrSvTUC8VZ51RvRde9Di+2RCsZUPDrtjHqBF56Uyd9j/em\n9mAJIZgRJ1KvGZicdgItlcK+PkSRvsD6M4azX0H3RMZEpX4o8sCRQj5Wi86d\nLwUA9c3StxzL3TMJDEgjTB77oM3IuvvEIkKPcrGQ21mbJAmpzzMs9r3QLgHl\nZ5pnmCgQt1Rnptkg+HksFPhwKHYczvdMk1F7An4gEySaGl40CPpVt4K9KNkG\nHZsP\r\n=SPlh\r\n-----END PGP SIGNATURE-----\r\n' },
+186 silly install resolved     maintainers: [ [Object], [Object] ],
+186 silly install resolved     directories: {},
+186 silly install resolved     _npmOperationalInternal:
+186 silly install resolved      { host: 's3://npm-registry-packages',
+186 silly install resolved        tmp: 'tmp/socket.io_2.2.0_1543446972404_0.4853877960052748' },
+186 silly install resolved     _hasShrinkwrap: false,
+186 silly install resolved     _shasum: 'f0f633161ef6712c972b307598ecd08c9b1b4d5b',
+186 silly install resolved     _resolved: 'https://registry.npmjs.org/socket.io/-/socket.io-2.2.0.tgz',
+186 silly install resolved     _from: 'socket.io@>=2.2.0 <3.0.0',
+186 silly install resolved     readme: 'ERROR: No README data found!' },
+186 silly install resolved   { name: 'express',
+186 silly install resolved     description: 'Fast, unopinionated, minimalist web framework',
+186 silly install resolved     version: '4.16.4',
+186 silly install resolved     author: { name: 'TJ Holowaychuk', email: 'tj@vision-media.ca' },
+186 silly install resolved     contributors:
+186 silly install resolved      [ [Object],
+186 silly install resolved        [Object],
+186 silly install resolved        [Object],
+186 silly install resolved        [Object],
+186 silly install resolved        [Object],
+186 silly install resolved        [Object],
+186 silly install resolved        [Object] ],
+186 silly install resolved     license: 'MIT',
+186 silly install resolved     repository:
+186 silly install resolved      { type: 'git',
+186 silly install resolved        url: 'git+https://github.com/expressjs/express.git' },
+186 silly install resolved     homepage: 'http://expressjs.com/',
+186 silly install resolved     keywords:
+186 silly install resolved      [ 'express',
+186 silly install resolved        'framework',
+186 silly install resolved        'sinatra',
+186 silly install resolved        'web',
+186 silly install resolved        'rest',
+186 silly install resolved        'restful',
+186 silly install resolved        'router',
+186 silly install resolved        'app',
+186 silly install resolved        'api' ],
+186 silly install resolved     dependencies:
+186 silly install resolved      { accepts: '~1.3.5',
+186 silly install resolved        'array-flatten': '1.1.1',
+186 silly install resolved        'body-parser': '1.18.3',
+186 silly install resolved        'content-disposition': '0.5.2',
+186 silly install resolved        'content-type': '~1.0.4',
+186 silly install resolved        cookie: '0.3.1',
+186 silly install resolved        'cookie-signature': '1.0.6',
+186 silly install resolved        debug: '2.6.9',
+186 silly install resolved        depd: '~1.1.2',
+186 silly install resolved        encodeurl: '~1.0.2',
+186 silly install resolved        'escape-html': '~1.0.3',
+186 silly install resolved        etag: '~1.8.1',
+186 silly install resolved        finalhandler: '1.1.1',
+186 silly install resolved        fresh: '0.5.2',
+186 silly install resolved        'merge-descriptors': '1.0.1',
+186 silly install resolved        methods: '~1.1.2',
+186 silly install resolved        'on-finished': '~2.3.0',
+186 silly install resolved        parseurl: '~1.3.2',
+186 silly install resolved        'path-to-regexp': '0.1.7',
+186 silly install resolved        'proxy-addr': '~2.0.4',
+186 silly install resolved        qs: '6.5.2',
+186 silly install resolved        'range-parser': '~1.2.0',
+186 silly install resolved        'safe-buffer': '5.1.2',
+186 silly install resolved        send: '0.16.2',
+186 silly install resolved        'serve-static': '1.13.2',
+186 silly install resolved        setprototypeof: '1.1.0',
+186 silly install resolved        statuses: '~1.4.0',
+186 silly install resolved        'type-is': '~1.6.16',
+186 silly install resolved        'utils-merge': '1.0.1',
+186 silly install resolved        vary: '~1.1.2' },
+186 silly install resolved     devDependencies:
+186 silly install resolved      { after: '0.8.2',
+186 silly install resolved        'connect-redis': '3.4.0',
+186 silly install resolved        'cookie-parser': '~1.4.3',
+186 silly install resolved        'cookie-session': '1.3.2',
+186 silly install resolved        ejs: '2.6.1',
+186 silly install resolved        eslint: '2.13.1',
+186 silly install resolved        'express-session': '1.15.6',
+186 silly install resolved        hbs: '4.0.1',
+186 silly install resolved        istanbul: '0.4.5',
+186 silly install resolved        marked: '0.5.1',
+186 silly install resolved        'method-override': '3.0.0',
+186 silly install resolved        mocha: '5.2.0',
+186 silly install resolved        morgan: '1.9.1',
+186 silly install resolved        multiparty: '4.2.1',
+186 silly install resolved        'pbkdf2-password': '1.2.1',
+186 silly install resolved        should: '13.2.3',
+186 silly install resolved        supertest: '3.3.0',
+186 silly install resolved        vhost: '~3.0.2' },
+186 silly install resolved     engines: { node: '>= 0.10.0' },
+186 silly install resolved     scripts:
+186 silly install resolved      { lint: 'eslint .',
+186 silly install resolved        test: 'mocha --require test/support/env --reporter spec --bail --check-leaks test/ test/acceptance/',
+186 silly install resolved        'test-ci': 'istanbul cover node_modules/mocha/bin/_mocha --report lcovonly -- --require test/support/env --reporter spec --check-leaks test/ test/acceptance/',
+186 silly install resolved        'test-cov': 'istanbul cover node_modules/mocha/bin/_mocha -- --require test/support/env --reporter dot --check-leaks test/ test/acceptance/',
+186 silly install resolved        'test-tap': 'mocha --require test/support/env --reporter tap --check-leaks test/ test/acceptance/' },
+186 silly install resolved     gitHead: 'dc538f6e810bd462c98ee7e6aae24c64d4b1da93',
+186 silly install resolved     bugs: { url: 'https://github.com/expressjs/express/issues' },
+186 silly install resolved     _id: 'express@4.16.4',
+186 silly install resolved     _npmVersion: '6.4.1',
+186 silly install resolved     _nodeVersion: '8.12.0',
+186 silly install resolved     _npmUser: { name: 'dougwilson', email: 'doug@somethingdoug.com' },
+186 silly install resolved     dist:
+186 silly install resolved      { integrity: 'sha512-j12Uuyb4FMrd/qQAm6uCHAkPtO8FDTRJZBDd5D2KOL2eLaz1yUNdUB/NOIyq0iU4q4cFarsUCrnFDPBcnksuOg==',
+186 silly install resolved        shasum: 'fddef61926109e24c515ea97fd2f1bdbf62df12e',
+186 silly install resolved        tarball: 'https://registry.npmjs.org/express/-/express-4.16.4.tgz',
+186 silly install resolved        fileCount: 16,
+186 silly install resolved        unpackedSize: 206123,
+186 silly install resolved        'npm-signature': '-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbvsqSCRA9TVsSAnZWagAAPFwP/iCvznxNrmvgY9ox7w2k\ncS/ej9HZJ5NGjBEWtae1F2bjJ2V7rOxVTGTlqiPMSNIzTgw3fpFkIXp9kCA4\nY03NOsYUjYscGjXR6f2fvOVJ/Si5FKlqr7Ow6WMBClrdo/CMCc8kH9fxtPja\nHla58xiU7ftlzUHIjGmmnHFzAjAeGj+3e3v1omuoeP6mPuxlwYoQ0MuD0sFa\n9qJAFZ0MBrfvoQBI8G++GZZhxalhefuibWi1ErRw3F5cLfvhjKi4HGPh+sDu\nc63D99wQIJIq4HumwX0JNW7OywuL28wgxgtvKyg0iCVR/BnAYiEA0UZUVI4h\nsX1Kuht1oHEp1iGOvGALYotPiovnDCAra+2zPM1p8oZKdXHEpkAygG3mCiD5\nyWlWrFo5jJudULWzMtHp6F0RwQJjpSavnkbusKWZvO717/1Ku5FIM4cnTWVK\nELGmb011jRPMvwFqv1C04SvhBT+UrXe4kd0qwJWQEDT1aWzbjbaroPmVQ+l1\nxzUkHRHm7vYCBE0RxQ4FImNWlYYQVVyBSroYwxvJnP6H8m/DR7oxDPDoJcBn\nXXETuH8Ca+q8KjwdrstVXCwKfB+zs0Z41/oOWKrhsDY2B9HwmyOOA8EtG4QO\np2waBrigD8L4T/Y3II4T144z2MclVid7DulrzKCMiE6yoTqvrH64FfWkLQqG\n11u8\r\n=ZruB\r\n-----END PGP SIGNATURE-----\r\n' },
+186 silly install resolved     maintainers: [ [Object], [Object], [Object], [Object] ],
+186 silly install resolved     directories: {},
+186 silly install resolved     _npmOperationalInternal:
+186 silly install resolved      { host: 's3://npm-registry-packages',
+186 silly install resolved        tmp: 'tmp/express_4.16.4_1539230354097_0.4680196437483164' },
+186 silly install resolved     _hasShrinkwrap: false,
+186 silly install resolved     _shasum: 'fddef61926109e24c515ea97fd2f1bdbf62df12e',
+186 silly install resolved     _resolved: 'https://registry.npmjs.org/express/-/express-4.16.4.tgz',
+186 silly install resolved     _from: 'express@>=4.16.4 <5.0.0',
+186 silly install resolved     readme: 'ERROR: No README data found!' },
+186 silly install resolved   { name: 'node',
+186 silly install resolved     version: '11.6.0',
+186 silly install resolved     description: 'node',
+186 silly install resolved     main: 'index.js',
+186 silly install resolved     keywords: [ 'runtime' ],
+186 silly install resolved     repository:
+186 silly install resolved      { type: 'git',
+186 silly install resolved        url: 'git+https://github.com/aredridel/node-bin-gen.git' },
+186 silly install resolved     scripts: { preinstall: 'node installArchSpecificPackage' },
+186 silly install resolved     bin: { node: 'bin/node' },
+186 silly install resolved     dependencies: { 'node-bin-setup': '^1.0.0' },
+186 silly install resolved     license: 'ISC',
+186 silly install resolved     author: '',
+186 silly install resolved     engines: { npm: '>=5.0.0' },
+186 silly install resolved     bugs: { url: 'https://github.com/aredridel/node-bin-gen/issues' },
+186 silly install resolved     homepage: 'https://github.com/aredridel/node-bin-gen#readme',
+186 silly install resolved     _id: 'node@11.6.0',
+186 silly install resolved     _npmVersion: '6.5.0',
+186 silly install resolved     _nodeVersion: '11.5.0',
+186 silly install resolved     _npmUser: { name: 'aredridel', email: 'aredridel@dinhe.net' },
+186 silly install resolved     dist:
+186 silly install resolved      { integrity: 'sha512-NrRQ/r+arVehqwh4s0dhC2rFT/mvGKHqlOu3X576eiVDrHdTKXBrcUM15dlCzUhWC04l8kCkurwYNVc+lzUplw==',
+186 silly install resolved        shasum: 'febc07664c69ccd197b79d26570bc2d7b3bbaa63',
+186 silly install resolved        tarball: 'https://registry.npmjs.org/node/-/node-11.6.0.tgz',
+186 silly install resolved        fileCount: 3,
+186 silly install resolved        unpackedSize: 1475,
+186 silly install resolved        'npm-signature': '-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJcKCMuCRA9TVsSAnZWagAAj4AP+QFpId11l6zu3yyURaZw\neZHLbrwfjrJXTyMfeJTxkWiCLWQa/CuMrYbCqLv7/4qxMwUPjn8W1qP8UOiq\n881KEBb10kxqTEcBz6+wpgVpjblTU/rvgj6HToV+qzdaVz/4VSfDBQHXQgqL\nJ+6Sx/fuYCmPHpzB0ZNfhWqo0qR/fWN9awkvyytDXbTZI8pSJ3qHhFSbSDyt\nMFOKjWIrE3mrelL5Uh4V5UYMo0TjWg+Cz+7QdmXdqkvHpzBFtPCFS+fthaTy\n9yIsko9h4/IfgCZBoLUuS8uDXLFLx/PgVP/1LEpyU6a0SOlgOaNiazcM5PlS\nI373sybqSpduB8qAFfvtJ2C2G+Kb/DnQKcmQcXfEy4cXw8bp7RV1ejrVoW2q\ntBcoOevmbzsfg2eNet0/g5nOjeV9K3+v+JT9GhSYOyj6djxpnHorZcSQF9/l\n5TXF5WPA4+6cbs+eNSG13lu/xgQwkJH3uPmziYMHHHQOtTVuiJ2GiS6ykyN1\ne4D3jEtTD9lVTZzo6NS7wZJeGTikTjFSESKQQytH+TAI1DyZNyeTo7VjiuRo\nTPkOPMEL61h1pP0I9AfCi6SpbyKVGufUIV8J+iNeBcVlNMnXhtbbxAU49M/D\nN3rEYgorSfmUV2uEUaYqt+NkiDu8u60ylK1oF4hltW0wsi85Oocc6PREyNgq\nkxam\r\n=fhED\r\n-----END PGP SIGNATURE-----\r\n' },
+186 silly install resolved     maintainers: [ [Object], [Object] ],
+186 silly install resolved     directories: {},
+186 silly install resolved     _npmOperationalInternal:
+186 silly install resolved      { host: 's3://npm-registry-packages',
+186 silly install resolved        tmp: 'tmp/node_11.6.0_1546134318079_0.8633810197043585' },
+186 silly install resolved     _hasShrinkwrap: false,
+186 silly install resolved     _shasum: 'febc07664c69ccd197b79d26570bc2d7b3bbaa63',
+186 silly install resolved     _resolved: 'https://registry.npmjs.org/node/-/node-11.6.0.tgz',
+186 silly install resolved     _from: 'node@*',
+186 silly install resolved     readme: 'ERROR: No README data found!' } ]
+187 info install socket.io@2.2.0 into C:\Users\Pavani Mehra\Desktop\dc
+188 info install express@4.16.4 into C:\Users\Pavani Mehra\Desktop\dc
+189 info install node@11.6.0 into C:\Users\Pavani Mehra\Desktop\dc
+190 info installOne socket.io@2.2.0
+191 verbose installOne of socket.io to C:\Users\Pavani Mehra\Desktop\dc not in flight; installing
+192 info installOne express@4.16.4
+193 verbose installOne of express to C:\Users\Pavani Mehra\Desktop\dc not in flight; installing
+194 info installOne node@11.6.0
+195 verbose installOne of node to C:\Users\Pavani Mehra\Desktop\dc not in flight; installing
+196 verbose lock using C:\Users\Pavani Mehra\AppData\Roaming\npm-cache\_locks\express-999ab709c23dfd7f.lock for C:\Users\Pavani Mehra\Desktop\dc\node_modules\express
+197 verbose lock using C:\Users\Pavani Mehra\AppData\Roaming\npm-cache\_locks\socket-io-a791346b52b1ad1d.lock for C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io
+198 verbose lock using C:\Users\Pavani Mehra\AppData\Roaming\npm-cache\_locks\node-352c248c955fe70c.lock for C:\Users\Pavani Mehra\Desktop\dc\node_modules\node
+199 warn engine node@11.6.0: wanted: {"npm":">=5.0.0"} (current: {"node":"4.1.2","npm":"2.14.4"})
+200 silly install write writing node 11.6.0 to C:\Users\Pavani Mehra\Desktop\dc\node_modules\node
+201 silly install write writing express 4.16.4 to C:\Users\Pavani Mehra\Desktop\dc\node_modules\express
+202 silly install write writing socket.io 2.2.0 to C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io
+203 verbose unbuild node_modules\express
+204 verbose unbuild node_modules\socket.io
+205 verbose unbuild node_modules\node
+206 silly gentlyRm C:\Users\Pavani Mehra\Desktop\dc\node_modules\node is being purged from base C:\Users\Pavani Mehra\Desktop\dc
+207 verbose gentlyRm don't care about contents; nuking C:\Users\Pavani Mehra\Desktop\dc\node_modules\node
+208 verbose tar unpack C:\Users\Pavani Mehra\AppData\Roaming\npm-cache\node\11.6.0\package.tgz
+209 verbose tar unpacking to C:\Users\Pavani Mehra\Desktop\dc\node_modules\node
+210 silly gentlyRm C:\Users\Pavani Mehra\Desktop\dc\node_modules\node is being purged
+211 verbose gentlyRm don't care about contents; nuking C:\Users\Pavani Mehra\Desktop\dc\node_modules\node
+212 silly gunzTarPerm modes [ '777', '666' ]
+213 info preuninstall express@4.16.4
+214 info preuninstall socket.io@2.2.0
+215 info uninstall express@4.16.4
+216 info uninstall socket.io@2.2.0
+217 silly gunzTarPerm extractEntry package.json
+218 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+219 verbose unbuild rmStuff express@4.16.4 from C:\Users\Pavani Mehra\Desktop\dc\node_modules
+220 info postuninstall express@4.16.4
+221 verbose unbuild rmStuff socket.io@2.2.0 from C:\Users\Pavani Mehra\Desktop\dc\node_modules
+222 info postuninstall socket.io@2.2.0
+223 silly gentlyRm C:\Users\Pavani Mehra\Desktop\dc\node_modules\express is being purged from base C:\Users\Pavani Mehra\Desktop\dc
+224 verbose gentlyRm don't care about contents; nuking C:\Users\Pavani Mehra\Desktop\dc\node_modules\express
+225 silly gentlyRm C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io is being purged from base C:\Users\Pavani Mehra\Desktop\dc
+226 verbose gentlyRm don't care about contents; nuking C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io
+227 silly vacuum-fs purging C:\Users\Pavani Mehra\Desktop\dc\node_modules\express
+228 silly vacuum-fs purging C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io
+229 silly gunzTarPerm extractEntry installArchSpecificPackage.js
+230 silly gunzTarPerm modified mode [ 'installArchSpecificPackage.js', 420, 438 ]
+231 silly gunzTarPerm extractEntry README.md
+232 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+233 verbose write writing to C:\Users\Pavani Mehra\Desktop\dc\node_modules\node\package.json
+234 info preinstall node@11.6.0
+235 verbose unsafe-perm in lifecycle true
+236 silly vacuum-fs quitting because other entries in C:\Users\Pavani Mehra\Desktop\dc\node_modules
+237 verbose tar unpack C:\Users\Pavani Mehra\AppData\Roaming\npm-cache\express\4.16.4\package.tgz
+238 verbose tar unpacking to C:\Users\Pavani Mehra\Desktop\dc\node_modules\express
+239 silly gentlyRm C:\Users\Pavani Mehra\Desktop\dc\node_modules\express is being purged
+240 verbose gentlyRm don't care about contents; nuking C:\Users\Pavani Mehra\Desktop\dc\node_modules\express
+241 silly gunzTarPerm modes [ '777', '666' ]
+242 silly gunzTarPerm extractEntry package.json
+243 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+244 silly gunzTarPerm extractEntry History.md
+245 silly gunzTarPerm modified mode [ 'History.md', 420, 438 ]
+246 silly gunzTarPerm extractEntry index.js
+247 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
+248 silly gunzTarPerm extractEntry LICENSE
+249 silly gunzTarPerm modified mode [ 'LICENSE', 420, 438 ]
+250 silly gunzTarPerm extractEntry Readme.md
+251 silly gunzTarPerm modified mode [ 'Readme.md', 420, 438 ]
+252 silly gunzTarPerm extractEntry lib/application.js
+253 silly gunzTarPerm modified mode [ 'lib/application.js', 420, 438 ]
+254 silly gunzTarPerm extractEntry lib/express.js
+255 silly gunzTarPerm modified mode [ 'lib/express.js', 420, 438 ]
+256 silly gunzTarPerm extractEntry lib/middleware/init.js
+257 silly gunzTarPerm modified mode [ 'lib/middleware/init.js', 420, 438 ]
+258 silly gunzTarPerm extractEntry lib/middleware/query.js
+259 silly gunzTarPerm modified mode [ 'lib/middleware/query.js', 420, 438 ]
+260 silly gunzTarPerm extractEntry lib/request.js
+261 silly gunzTarPerm modified mode [ 'lib/request.js', 420, 438 ]
+262 silly gunzTarPerm extractEntry lib/response.js
+263 silly gunzTarPerm modified mode [ 'lib/response.js', 420, 438 ]
+264 silly gunzTarPerm extractEntry lib/router/index.js
+265 silly gunzTarPerm modified mode [ 'lib/router/index.js', 420, 438 ]
+266 silly gunzTarPerm extractEntry lib/router/layer.js
+267 silly gunzTarPerm modified mode [ 'lib/router/layer.js', 420, 438 ]
+268 silly gunzTarPerm extractEntry lib/router/route.js
+269 silly gunzTarPerm modified mode [ 'lib/router/route.js', 420, 438 ]
+270 silly gunzTarPerm extractEntry lib/utils.js
+271 silly gunzTarPerm modified mode [ 'lib/utils.js', 420, 438 ]
+272 silly gunzTarPerm extractEntry lib/view.js
+273 silly gunzTarPerm modified mode [ 'lib/view.js', 420, 438 ]
+274 silly vacuum-fs quitting because other entries in C:\Users\Pavani Mehra\Desktop\dc\node_modules
+275 verbose tar unpack C:\Users\Pavani Mehra\AppData\Roaming\npm-cache\socket.io\2.2.0\package.tgz
+276 verbose tar unpacking to C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io
+277 silly gentlyRm C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io is being purged
+278 verbose gentlyRm don't care about contents; nuking C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io
+279 silly gunzTarPerm modes [ '777', '666' ]
+280 silly gunzTarPerm extractEntry package.json
+281 silly gunzTarPerm modified mode [ 'package.json', 436, 438 ]
+282 silly gunzTarPerm extractEntry LICENSE
+283 silly gunzTarPerm modified mode [ 'LICENSE', 436, 438 ]
+284 silly gunzTarPerm extractEntry Readme.md
+285 silly gunzTarPerm modified mode [ 'Readme.md', 436, 438 ]
+286 silly gunzTarPerm extractEntry lib/client.js
+287 silly gunzTarPerm modified mode [ 'lib/client.js', 436, 438 ]
+288 silly gunzTarPerm extractEntry lib/index.js
+289 silly gunzTarPerm modified mode [ 'lib/index.js', 436, 438 ]
+290 silly gunzTarPerm extractEntry lib/namespace.js
+291 silly gunzTarPerm modified mode [ 'lib/namespace.js', 436, 438 ]
+292 silly gunzTarPerm extractEntry lib/parent-namespace.js
+293 silly gunzTarPerm modified mode [ 'lib/parent-namespace.js', 436, 438 ]
+294 silly gunzTarPerm extractEntry lib/socket.js
+295 silly gunzTarPerm modified mode [ 'lib/socket.js', 436, 438 ]
+296 verbose write writing to C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io\package.json
+297 info preinstall socket.io@2.2.0
+298 verbose readDependencies loading dependencies from C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io\package.json
+299 silly prepareForInstallMany adding debug@~4.1.0 from socket.io dependencies
+300 verbose readDependencies loading dependencies from C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io\package.json
+301 silly cache add args [ 'debug@~4.1.0', null ]
+302 verbose cache add spec debug@~4.1.0
+303 silly cache add parsed spec Result {
+303 silly cache add   raw: 'debug@~4.1.0',
+303 silly cache add   scope: null,
+303 silly cache add   name: 'debug',
+303 silly cache add   rawSpec: '~4.1.0',
+303 silly cache add   spec: '>=4.1.0 <4.2.0',
+303 silly cache add   type: 'range' }
+304 silly addNamed debug@>=4.1.0 <4.2.0
+305 verbose addNamed ">=4.1.0 <4.2.0" is a valid semver range for debug
+306 silly addNameRange { name: 'debug', range: '>=4.1.0 <4.2.0', hasData: false }
+307 silly mapToRegistry name debug
+308 silly mapToRegistry using default registry
+309 silly mapToRegistry registry https://registry.npmjs.org/
+310 silly mapToRegistry uri https://registry.npmjs.org/debug
+311 verbose addNameRange registry:https://registry.npmjs.org/debug not in flight; fetching
+312 verbose request uri https://registry.npmjs.org/debug
+313 verbose request no auth needed
+314 info attempt registry request try #1 at 5:39:24 PM
+315 verbose etag W/"bb5f7992db44387677aeace740a94194"
+316 verbose lastModified Sat, 22 Dec 2018 16:40:26 GMT
+317 http request GET https://registry.npmjs.org/debug
+318 info node@11.6.0 Failed to exec preinstall script
+319 verbose unlock done using C:\Users\Pavani Mehra\AppData\Roaming\npm-cache\_locks\node-352c248c955fe70c.lock for C:\Users\Pavani Mehra\Desktop\dc\node_modules\node
+320 http 304 https://registry.npmjs.org/debug
+321 silly get cb [ 304,
+321 silly get   { date: 'Sun, 30 Dec 2018 11:30:19 GMT',
+321 silly get     connection: 'keep-alive',
+321 silly get     'set-cookie': [ '__cfduid=df05c0c93f18ff6b9a47a19122fc04d291546169419; expires=Mon, 30-Dec-19 11:30:19 GMT; path=/; domain=.registry.npmjs.org; HttpOnly' ],
+321 silly get     'cf-cache-status': 'HIT',
+321 silly get     'cache-control': 'max-age=300',
+321 silly get     'cf-ray': '49142c77fec58a6d-BOM',
+321 silly get     etag: '"bb5f7992db44387677aeace740a94194"',
+321 silly get     'expect-ct': 'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+321 silly get     'last-modified': 'Sat, 22 Dec 2018 16:40:26 GMT',
+321 silly get     vary: 'accept-encoding, accept',
+321 silly get     'x-amz-meta-rev': '900-db3816242239c959de260ce978e01714',
+321 silly get     server: 'cloudflare' } ]
+322 verbose etag https://registry.npmjs.org/debug from cache
+323 verbose get saving debug to C:\Users\Pavani Mehra\AppData\Roaming\npm-cache\registry.npmjs.org\debug\.cache.json
+324 silly addNameRange number 2 { name: 'debug', range: '>=4.1.0 <4.2.0', hasData: true }
+325 silly addNameRange versions [ 'debug',
+325 silly addNameRange   [ '0.0.1',
+325 silly addNameRange     '0.1.0',
+325 silly addNameRange     '0.2.0',
+325 silly addNameRange     '0.3.0',
+325 silly addNameRange     '0.4.0',
+325 silly addNameRange     '0.4.1',
+325 silly addNameRange     '0.5.0',
+325 silly addNameRange     '0.6.0',
+325 silly addNameRange     '0.7.0',
+325 silly addNameRange     '0.7.1',
+325 silly addNameRange     '0.7.2',
+325 silly addNameRange     '0.7.3',
+325 silly addNameRange     '0.7.4',
+325 silly addNameRange     '0.8.0',
+325 silly addNameRange     '0.8.1',
+325 silly addNameRange     '1.0.0',
+325 silly addNameRange     '1.0.1',
+325 silly addNameRange     '1.0.2',
+325 silly addNameRange     '1.0.3',
+325 silly addNameRange     '1.0.4',
+325 silly addNameRange     '2.0.0',
+325 silly addNameRange     '2.1.0',
+325 silly addNameRange     '2.1.1',
+325 silly addNameRange     '2.1.2',
+325 silly addNameRange     '2.1.3',
+325 silly addNameRange     '2.2.0',
+325 silly addNameRange     '2.3.0',
+325 silly addNameRange     '2.3.1',
+325 silly addNameRange     '2.3.2',
+325 silly addNameRange     '2.3.3',
+325 silly addNameRange     '2.4.0',
+325 silly addNameRange     '2.4.1',
+325 silly addNameRange     '2.4.2',
+325 silly addNameRange     '2.4.3',
+325 silly addNameRange     '2.4.4',
+325 silly addNameRange     '2.4.5',
+325 silly addNameRange     '2.5.0',
+325 silly addNameRange     '2.5.1',
+325 silly addNameRange     '2.5.2',
+325 silly addNameRange     '2.6.0',
+325 silly addNameRange     '2.6.1',
+325 silly addNameRange     '2.6.2',
+325 silly addNameRange     '2.6.3',
+325 silly addNameRange     '2.6.4',
+325 silly addNameRange     '2.6.5',
+325 silly addNameRange     '2.6.6',
+325 silly addNameRange     '2.6.7',
+325 silly addNameRange     '2.6.8',
+325 silly addNameRange     '1.0.5',
+325 silly addNameRange     '3.0.0',
+325 silly addNameRange     '3.0.1',
+325 silly addNameRange     '2.6.9',
+325 silly addNameRange     '3.1.0',
+325 silly addNameRange     '3.2.0',
+325 silly addNameRange     '3.2.1',
+325 silly addNameRange     '3.2.2',
+325 silly addNameRange     '3.2.3',
+325 silly addNameRange     '4.0.0',
+325 silly addNameRange     '3.2.4',
+325 silly addNameRange     '3.2.5',
+325 silly addNameRange     '4.0.1',
+325 silly addNameRange     '4.1.0',
+325 silly addNameRange     '3.2.6',
+325 silly addNameRange     '4.1.1' ] ]
+326 silly addNamed debug@4.1.1
+327 verbose addNamed "4.1.1" is a plain semver version for debug
+328 silly cache afterAdd debug@4.1.1
+329 verbose afterAdd C:\Users\Pavani Mehra\AppData\Roaming\npm-cache\debug\4.1.1\package\package.json not in flight; writing
+330 verbose afterAdd C:\Users\Pavani Mehra\AppData\Roaming\npm-cache\debug\4.1.1\package\package.json written
+331 silly install resolved [ { name: 'debug',
+331 silly install resolved     version: '4.1.1',
+331 silly install resolved     repository: { type: 'git', url: 'git://github.com/visionmedia/debug.git' },
+331 silly install resolved     description: 'small debugging utility',
+331 silly install resolved     keywords: [ 'debug', 'log', 'debugger' ],
+331 silly install resolved     author: { name: 'TJ Holowaychuk', email: 'tj@vision-media.ca' },
+331 silly install resolved     contributors: [ [Object], [Object] ],
+331 silly install resolved     license: 'MIT',
+331 silly install resolved     scripts:
+331 silly install resolved      { lint: 'xo',
+331 silly install resolved        test: 'npm run test:node && npm run test:browser',
+331 silly install resolved        'test:node': 'istanbul cover _mocha -- test.js',
+331 silly install resolved        'pretest:browser': 'npm run build',
+331 silly install resolved        'test:browser': 'karma start --single-run',
+331 silly install resolved        'prebuild:debug': 'mkdir -p dist && browserify --standalone debug -o dist/debug.es6.js .',
+331 silly install resolved        'build:debug': 'babel -o dist/debug.js dist/debug.es6.js > dist/debug.js',
+331 silly install resolved        'build:test': 'babel -d dist test.js',
+331 silly install resolved        build: 'npm run build:debug && npm run build:test',
+331 silly install resolved        clean: 'rimraf dist coverage',
+331 silly install resolved        'test:coverage': 'cat ./coverage/lcov.info | coveralls' },
+331 silly install resolved     dependencies: { ms: '^2.1.1' },
+331 silly install resolved     devDependencies:
+331 silly install resolved      { '@babel/cli': '^7.0.0',
+331 silly install resolved        '@babel/core': '^7.0.0',
+331 silly install resolved        '@babel/preset-env': '^7.0.0',
+331 silly install resolved        browserify: '14.4.0',
+331 silly install resolved        chai: '^3.5.0',
+331 silly install resolved        concurrently: '^3.1.0',
+331 silly install resolved        coveralls: '^3.0.2',
+331 silly install resolved        istanbul: '^0.4.5',
+331 silly install resolved        karma: '^3.0.0',
+331 silly install resolved        'karma-chai': '^0.1.0',
+331 silly install resolved        'karma-mocha': '^1.3.0',
+331 silly install resolved        'karma-phantomjs-launcher': '^1.0.2',
+331 silly install resolved        mocha: '^5.2.0',
+331 silly install resolved        'mocha-lcov-reporter': '^1.2.0',
+331 silly install resolved        rimraf: '^2.5.4',
+331 silly install resolved        xo: '^0.23.0' },
+331 silly install resolved     main: './src/index.js',
+331 silly install resolved     browser: './src/browser.js',
+331 silly install resolved     unpkg: './dist/debug.js',
+331 silly install resolved     gitHead: '68b4dc8d8549d3924673c38fccc5d594f0a38da1',
+331 silly install resolved     bugs: { url: 'https://github.com/visionmedia/debug/issues' },
+331 silly install resolved     homepage: 'https://github.com/visionmedia/debug#readme',
+331 silly install resolved     _id: 'debug@4.1.1',
+331 silly install resolved     _npmVersion: '6.4.1',
+331 silly install resolved     _nodeVersion: '10.14.2',
+331 silly install resolved     _npmUser: { name: 'qix', email: 'i.am.qix@gmail.com' },
+331 silly install resolved     dist:
+331 silly install resolved      { integrity: 'sha512-pYAIzeRo8J6KPEaJ0VWOh5Pzkbw/RetuzehGM7QRRX5he4fPHx2rdKMB256ehJCkX+XRQm16eZLqLNS8RSZXZw==',
+331 silly install resolved        shasum: '3b72260255109c6b589cee050f1d516139664791',
+331 silly install resolved        tarball: 'https://registry.npmjs.org/debug/-/debug-4.1.1.tgz',
+331 silly install resolved        fileCount: 9,
+331 silly install resolved        unpackedSize: 81476,
+331 silly install resolved        'npm-signature': '-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJcHmj3CRA9TVsSAnZWagAAXQIP/RgGgdDQtTyIZha6xfTv\nN2WoeoMBONJYjsPPd/2uxClRNtMBRC2jUZawva5LoMkBhhsFExLCF68Di8jq\n4l1tKfSnQsCDZzprFSVJIcAEHryGPU7ZVTZC+h/HQa/QU8m+AnSCFjGtsDyy\np4I7DOsLSpBireRfB6BCZgk00ftuM+dOkof+dTKg4GVQDbYLbzMzhIRzpvjv\n2QtIickzjgRjwp8QuiEBIhf8/p4WnXrubOz4Y6LewqAbAKEHzEHXSxgiDCnY\n+vhuojGVLSdrfBS/+bYUCJxGpyCfcFivdRKJW8GG40RCKltOQhpUBIWfbfbJ\nVJ8gwfl6/A6/7RbdfRHRBwoyrpi03D5EFr0htHqrQIkeEmeU73szxti2Sag/\n3tpk2+Evcoed5tz2Vb9ZSCV7AOd3N0L5pUlZH4lrCtiIQWRnVetKwZ+mdZuE\nHWFJK6CNLyHoHw6HS+bBCUk/iLu+384UFgPb/GThxwosLpo2GXRUBncFHtTA\ngFNkRXtKJtG+MOHozkzWsmKNhsn8q4J26zpgI3snwfOqUx63sPvHkP3gcMl2\n60ZU9mCxDAtK5xmpXpzmV/ac+c3Wp2azRglbhSdfAB/RWji+KS5192bTb0nk\n+zvu6AJ2KGREgbxosEEZLVkbBvf3XtIRN1Ts3mIVLrx4rSDsDbJYqZ0IrJKl\nYAHO\r\n=bQum\r\n-----END PGP SIGNATURE-----\r\n' },
+331 silly install resolved     maintainers: [ [Object], [Object], [Object], [Object] ],
+331 silly install resolved     directories: {},
+331 silly install resolved     _npmOperationalInternal:
+331 silly install resolved      { host: 's3://npm-registry-packages',
+331 silly install resolved        tmp: 'tmp/debug_4.1.1_1545496822417_0.37311624175986635' },
+331 silly install resolved     _hasShrinkwrap: false,
+331 silly install resolved     _shasum: '3b72260255109c6b589cee050f1d516139664791',
+331 silly install resolved     _resolved: 'https://registry.npmjs.org/debug/-/debug-4.1.1.tgz',
+331 silly install resolved     _from: 'debug@>=4.1.0 <4.2.0',
+331 silly install resolved     readme: 'ERROR: No README data found!' } ]
+332 info install debug@4.1.1 into C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io
+333 info installOne debug@4.1.1
+334 verbose installOne of debug to C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io not in flight; installing
+335 verbose lock using C:\Users\Pavani Mehra\AppData\Roaming\npm-cache\_locks\debug-e9760210931c5b8b.lock for C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io\node_modules\debug
+336 silly install write writing debug 4.1.1 to C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io\node_modules\debug
+337 verbose unbuild node_modules\socket.io\node_modules\debug
+338 silly gentlyRm C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io\node_modules\debug is being purged from base C:\Users\Pavani Mehra\Desktop\dc
+339 verbose gentlyRm don't care about contents; nuking C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io\node_modules\debug
+340 verbose tar unpack C:\Users\Pavani Mehra\AppData\Roaming\npm-cache\debug\4.1.1\package.tgz
+341 verbose tar unpacking to C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io\node_modules\debug
+342 silly gentlyRm C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io\node_modules\debug is being purged
+343 verbose gentlyRm don't care about contents; nuking C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io\node_modules\debug
+344 silly gunzTarPerm modes [ '777', '666' ]
+345 silly gunzTarPerm extractEntry package.json
+346 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+347 silly gunzTarPerm extractEntry CHANGELOG.md
+348 silly gunzTarPerm modified mode [ 'CHANGELOG.md', 420, 438 ]
+349 silly gunzTarPerm extractEntry LICENSE
+350 silly gunzTarPerm modified mode [ 'LICENSE', 420, 438 ]
+351 silly gunzTarPerm extractEntry README.md
+352 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+353 silly gunzTarPerm extractEntry dist/debug.js
+354 silly gunzTarPerm modified mode [ 'dist/debug.js', 420, 438 ]
+355 silly gunzTarPerm extractEntry src/browser.js
+356 silly gunzTarPerm modified mode [ 'src/browser.js', 420, 438 ]
+357 silly gunzTarPerm extractEntry src/common.js
+358 silly gunzTarPerm modified mode [ 'src/common.js', 420, 438 ]
+359 silly gunzTarPerm extractEntry src/index.js
+360 silly gunzTarPerm modified mode [ 'src/index.js', 420, 438 ]
+361 silly gunzTarPerm extractEntry src/node.js
+362 silly gunzTarPerm modified mode [ 'src/node.js', 420, 438 ]
+363 verbose write writing to C:\Users\Pavani Mehra\Desktop\dc\node_modules\express\package.json
+364 info preinstall express@4.16.4
+365 verbose readDependencies loading dependencies from C:\Users\Pavani Mehra\Desktop\dc\node_modules\express\package.json
+366 verbose readDependencies loading dependencies from C:\Users\Pavani Mehra\Desktop\dc\node_modules\express\package.json
+367 silly install resolved []
+368 verbose about to build C:\Users\Pavani Mehra\Desktop\dc\node_modules\express
+369 info build C:\Users\Pavani Mehra\Desktop\dc\node_modules\express
+370 info linkStuff express@4.16.4
+371 silly linkStuff express@4.16.4 has C:\Users\Pavani Mehra\Desktop\dc\node_modules as its parent node_modules
+372 verbose linkBins express@4.16.4
+373 verbose linkMans express@4.16.4
+374 verbose rebuildBundles express@4.16.4
+375 info install express@4.16.4
+376 info postinstall express@4.16.4
+377 verbose unlock done using C:\Users\Pavani Mehra\AppData\Roaming\npm-cache\_locks\express-999ab709c23dfd7f.lock for C:\Users\Pavani Mehra\Desktop\dc\node_modules\express
+378 verbose write writing to C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io\node_modules\debug\package.json
+379 info preinstall debug@4.1.1
+380 verbose readDependencies loading dependencies from C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io\node_modules\debug\package.json
+381 silly prepareForInstallMany adding ms@^2.1.1 from debug dependencies
+382 verbose readDependencies loading dependencies from C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io\node_modules\debug\package.json
+383 silly cache add args [ 'ms@^2.1.1', null ]
+384 verbose cache add spec ms@^2.1.1
+385 silly cache add parsed spec Result {
+385 silly cache add   raw: 'ms@^2.1.1',
+385 silly cache add   scope: null,
+385 silly cache add   name: 'ms',
+385 silly cache add   rawSpec: '^2.1.1',
+385 silly cache add   spec: '>=2.1.1 <3.0.0',
+385 silly cache add   type: 'range' }
+386 silly addNamed ms@>=2.1.1 <3.0.0
+387 verbose addNamed ">=2.1.1 <3.0.0" is a valid semver range for ms
+388 silly addNameRange { name: 'ms', range: '>=2.1.1 <3.0.0', hasData: false }
+389 silly mapToRegistry name ms
+390 silly mapToRegistry using default registry
+391 silly mapToRegistry registry https://registry.npmjs.org/
+392 silly mapToRegistry uri https://registry.npmjs.org/ms
+393 verbose addNameRange registry:https://registry.npmjs.org/ms not in flight; fetching
+394 verbose request uri https://registry.npmjs.org/ms
+395 verbose request no auth needed
+396 info attempt registry request try #1 at 5:39:25 PM
+397 verbose etag W/"5a85bb57554d845233ccd7495e3fc9c2"
+398 verbose lastModified Sat, 06 Oct 2018 06:09:30 GMT
+399 http request GET https://registry.npmjs.org/ms
+400 http 304 https://registry.npmjs.org/ms
+401 silly get cb [ 304,
+401 silly get   { date: 'Sun, 30 Dec 2018 11:30:20 GMT',
+401 silly get     connection: 'keep-alive',
+401 silly get     'set-cookie': [ '__cfduid=d6345dedff86180f2fdb7b7698070844c1546169420; expires=Mon, 30-Dec-19 11:30:20 GMT; path=/; domain=.registry.npmjs.org; HttpOnly' ],
+401 silly get     'cf-cache-status': 'HIT',
+401 silly get     'cache-control': 'max-age=300',
+401 silly get     'cf-ray': '49142c7cbc588a8b-BOM',
+401 silly get     etag: '"5a85bb57554d845233ccd7495e3fc9c2"',
+401 silly get     'expect-ct': 'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+401 silly get     'last-modified': 'Sat, 06 Oct 2018 06:09:30 GMT',
+401 silly get     vary: 'accept-encoding, accept',
+401 silly get     'x-amz-meta-rev': '148-4b50e14211ee29949a1bfee567b48c41',
+401 silly get     server: 'cloudflare' } ]
+402 verbose etag https://registry.npmjs.org/ms from cache
+403 verbose get saving ms to C:\Users\Pavani Mehra\AppData\Roaming\npm-cache\registry.npmjs.org\ms\.cache.json
+404 silly addNameRange number 2 { name: 'ms', range: '>=2.1.1 <3.0.0', hasData: true }
+405 silly addNameRange versions [ 'ms',
+405 silly addNameRange   [ '0.1.0',
+405 silly addNameRange     '0.2.0',
+405 silly addNameRange     '0.3.0',
+405 silly addNameRange     '0.4.0',
+405 silly addNameRange     '0.5.0',
+405 silly addNameRange     '0.5.1',
+405 silly addNameRange     '0.6.0',
+405 silly addNameRange     '0.6.1',
+405 silly addNameRange     '0.6.2',
+405 silly addNameRange     '0.7.0',
+405 silly addNameRange     '0.7.1',
+405 silly addNameRange     '0.7.2',
+405 silly addNameRange     '0.7.3',
+405 silly addNameRange     '1.0.0',
+405 silly addNameRange     '2.0.0',
+405 silly addNameRange     '2.1.0',
+405 silly addNameRange     '2.1.1' ] ]
+406 silly addNamed ms@2.1.1
+407 verbose addNamed "2.1.1" is a plain semver version for ms
+408 silly cache afterAdd ms@2.1.1
+409 verbose afterAdd C:\Users\Pavani Mehra\AppData\Roaming\npm-cache\ms\2.1.1\package\package.json not in flight; writing
+410 verbose afterAdd C:\Users\Pavani Mehra\AppData\Roaming\npm-cache\ms\2.1.1\package\package.json written
+411 silly install resolved [ { name: 'ms',
+411 silly install resolved     version: '2.1.1',
+411 silly install resolved     description: 'Tiny millisecond conversion utility',
+411 silly install resolved     repository: { type: 'git', url: 'git+https://github.com/zeit/ms.git' },
+411 silly install resolved     main: './index',
+411 silly install resolved     files: [ 'index.js' ],
+411 silly install resolved     scripts:
+411 silly install resolved      { precommit: 'lint-staged',
+411 silly install resolved        lint: 'eslint lib/* bin/*',
+411 silly install resolved        test: 'mocha tests.js' },
+411 silly install resolved     eslintConfig: { extends: 'eslint:recommended', env: [Object] },
+411 silly install resolved     'lint-staged': { '*.js': [Object] },
+411 silly install resolved     license: 'MIT',
+411 silly install resolved     devDependencies:
+411 silly install resolved      { eslint: '4.12.1',
+411 silly install resolved        'expect.js': '0.3.1',
+411 silly install resolved        husky: '0.14.3',
+411 silly install resolved        'lint-staged': '5.0.0',
+411 silly install resolved        mocha: '4.0.1' },
+411 silly install resolved     gitHead: 'fe0bae301a6c41f68a01595658a4f4f0dcba0e84',
+411 silly install resolved     bugs: { url: 'https://github.com/zeit/ms/issues' },
+411 silly install resolved     homepage: 'https://github.com/zeit/ms#readme',
+411 silly install resolved     _id: 'ms@2.1.1',
+411 silly install resolved     _npmVersion: '5.5.1',
+411 silly install resolved     _nodeVersion: '9.2.0',
+411 silly install resolved     _npmUser: { name: 'leo', email: 'leo@zeit.co' },
+411 silly install resolved     dist:
+411 silly install resolved      { integrity: 'sha512-tgp+dl5cGk28utYktBsrFqA7HKgrhgPsg6Z/EfhWI4gl1Hwq8B/GmY/0oXZ6nF8hDVesS/FpnYaD/kOWhYQvyg==',
+411 silly install resolved        shasum: '30a5864eb3ebb0a66f2ebe6d727af06a09d86e0a',
+411 silly install resolved        tarball: 'https://registry.npmjs.org/ms/-/ms-2.1.1.tgz' },
+411 silly install resolved     maintainers: [ [Object], [Object] ],
+411 silly install resolved     _npmOperationalInternal:
+411 silly install resolved      { host: 's3://npm-registry-packages',
+411 silly install resolved        tmp: 'tmp/ms-2.1.1.tgz_1512066615982_0.7117063472978771' },
+411 silly install resolved     directories: {},
+411 silly install resolved     _shasum: '30a5864eb3ebb0a66f2ebe6d727af06a09d86e0a',
+411 silly install resolved     _resolved: 'https://registry.npmjs.org/ms/-/ms-2.1.1.tgz',
+411 silly install resolved     _from: 'ms@>=2.1.1 <3.0.0',
+411 silly install resolved     readme: 'ERROR: No README data found!' } ]
+412 info install ms@2.1.1 into C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io\node_modules\debug
+413 info installOne ms@2.1.1
+414 verbose installOne of ms to C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io\node_modules\debug not in flight; installing
+415 verbose lock using C:\Users\Pavani Mehra\AppData\Roaming\npm-cache\_locks\ms-7c398b42bfb9187d.lock for C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io\node_modules\debug\node_modules\ms
+416 silly install write writing ms 2.1.1 to C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io\node_modules\debug\node_modules\ms
+417 verbose unbuild node_modules\socket.io\node_modules\debug\node_modules\ms
+418 silly gentlyRm C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io\node_modules\debug\node_modules\ms is being purged from base C:\Users\Pavani Mehra\Desktop\dc
+419 verbose gentlyRm don't care about contents; nuking C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io\node_modules\debug\node_modules\ms
+420 verbose tar unpack C:\Users\Pavani Mehra\AppData\Roaming\npm-cache\ms\2.1.1\package.tgz
+421 verbose tar unpacking to C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io\node_modules\debug\node_modules\ms
+422 silly gentlyRm C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io\node_modules\debug\node_modules\ms is being purged
+423 verbose gentlyRm don't care about contents; nuking C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io\node_modules\debug\node_modules\ms
+424 silly gunzTarPerm modes [ '777', '666' ]
+425 silly gunzTarPerm extractEntry package.json
+426 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+427 silly gunzTarPerm extractEntry index.js
+428 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
+429 silly gunzTarPerm extractEntry license.md
+430 silly gunzTarPerm modified mode [ 'license.md', 420, 438 ]
+431 silly gunzTarPerm extractEntry readme.md
+432 silly gunzTarPerm modified mode [ 'readme.md', 420, 438 ]
+433 verbose write writing to C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io\node_modules\debug\node_modules\ms\package.json
+434 info preinstall ms@2.1.1
+435 verbose readDependencies loading dependencies from C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io\node_modules\debug\node_modules\ms\package.json
+436 verbose readDependencies loading dependencies from C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io\node_modules\debug\node_modules\ms\package.json
+437 silly install resolved []
+438 verbose about to build C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io\node_modules\debug\node_modules\ms
+439 info build C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io\node_modules\debug\node_modules\ms
+440 info linkStuff ms@2.1.1
+441 silly linkStuff ms@2.1.1 has C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io\node_modules\debug\node_modules as its parent node_modules
+442 verbose linkBins ms@2.1.1
+443 verbose linkMans ms@2.1.1
+444 verbose rebuildBundles ms@2.1.1
+445 info install ms@2.1.1
+446 info postinstall ms@2.1.1
+447 verbose unlock done using C:\Users\Pavani Mehra\AppData\Roaming\npm-cache\_locks\ms-7c398b42bfb9187d.lock for C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io\node_modules\debug\node_modules\ms
+448 verbose about to build C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io\node_modules\debug
+449 info build C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io\node_modules\debug
+450 info linkStuff debug@4.1.1
+451 silly linkStuff debug@4.1.1 has C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io\node_modules as its parent node_modules
+452 verbose linkBins debug@4.1.1
+453 verbose linkMans debug@4.1.1
+454 verbose rebuildBundles debug@4.1.1
+455 verbose rebuildBundles [ 'ms' ]
+456 info install debug@4.1.1
+457 info postinstall debug@4.1.1
+458 verbose unlock done using C:\Users\Pavani Mehra\AppData\Roaming\npm-cache\_locks\debug-e9760210931c5b8b.lock for C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io\node_modules\debug
+459 verbose about to build C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io
+460 info build C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io
+461 info linkStuff socket.io@2.2.0
+462 silly linkStuff socket.io@2.2.0 has C:\Users\Pavani Mehra\Desktop\dc\node_modules as its parent node_modules
+463 verbose linkBins socket.io@2.2.0
+464 verbose linkMans socket.io@2.2.0
+465 verbose rebuildBundles socket.io@2.2.0
+466 verbose rebuildBundles [ 'debug' ]
+467 info install socket.io@2.2.0
+468 info postinstall socket.io@2.2.0
+469 verbose unlock done using C:\Users\Pavani Mehra\AppData\Roaming\npm-cache\_locks\socket-io-a791346b52b1ad1d.lock for C:\Users\Pavani Mehra\Desktop\dc\node_modules\socket.io
+470 verbose stack Error: node@11.6.0 preinstall: `node installArchSpecificPackage`
+470 verbose stack Exit status 1
+470 verbose stack     at EventEmitter.<anonymous> (C:\Program Files\nodejs\node_modules\npm\lib\utils\lifecycle.js:214:16)
+470 verbose stack     at emitTwo (events.js:87:13)
+470 verbose stack     at EventEmitter.emit (events.js:172:7)
+470 verbose stack     at ChildProcess.<anonymous> (C:\Program Files\nodejs\node_modules\npm\lib\utils\spawn.js:24:14)
+470 verbose stack     at emitTwo (events.js:87:13)
+470 verbose stack     at ChildProcess.emit (events.js:172:7)
+470 verbose stack     at maybeClose (internal/child_process.js:818:16)
+470 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:211:5)
+471 verbose pkgid node@11.6.0
+472 verbose cwd C:\Users\Pavani Mehra\Desktop\dc
+473 error Windows_NT 6.2.9200
+474 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "node" "socket.io" "express"
+475 error node v4.1.2
+476 error npm  v2.14.4
+477 error code ELIFECYCLE
+478 error node@11.6.0 preinstall: `node installArchSpecificPackage`
+478 error Exit status 1
+479 error Failed at the node@11.6.0 preinstall script 'node installArchSpecificPackage'.
+479 error This is most likely a problem with the node package,
+479 error not with npm itself.
+479 error Tell the author that this fails on your system:
+479 error     node installArchSpecificPackage
+479 error You can get their info via:
+479 error     npm owner ls node
+479 error There is likely additional logging output above.
+480 verbose exit [ 1, true ]
+481 verbose unbuild node_modules\node
+482 info preuninstall node@11.6.0
+483 info uninstall node@11.6.0
+484 verbose unbuild rmStuff node@11.6.0 from C:\Users\Pavani Mehra\Desktop\dc\node_modules
+485 silly gentlyRm C:\Users\Pavani Mehra\Desktop\dc\node_modules\.bin\node.cmd is being gently removed
+486 silly gentlyRm verifying C:\Users\Pavani Mehra\Desktop\dc is an npm working directory
+487 silly gentlyRm containing path C:\Users\Pavani Mehra\Desktop\dc is under npm's control, in C:\Users\Pavani Mehra\Desktop\dc
+488 silly gentlyRm deletion target C:\Users\Pavani Mehra\Desktop\dc\node_modules\.bin\node.cmd is under C:\Users\Pavani Mehra\Desktop\dc
+489 verbose gentlyRm vacuuming from C:\Users\Pavani Mehra\Desktop\dc\node_modules\.bin\node.cmd up to C:\Users\Pavani Mehra\Desktop\dc
+490 silly gentlyRm C:\Users\Pavani Mehra\Desktop\dc\node_modules\.bin\node is being gently removed
+491 silly gentlyRm verifying C:\Users\Pavani Mehra\Desktop\dc is an npm working directory
+492 silly gentlyRm containing path C:\Users\Pavani Mehra\Desktop\dc is under npm's control, in C:\Users\Pavani Mehra\Desktop\dc
+493 silly gentlyRm deletion target C:\Users\Pavani Mehra\Desktop\dc\node_modules\.bin\node is under C:\Users\Pavani Mehra\Desktop\dc
+494 verbose gentlyRm vacuuming from C:\Users\Pavani Mehra\Desktop\dc\node_modules\.bin\node up to C:\Users\Pavani Mehra\Desktop\dc
+495 info postuninstall node@11.6.0
+496 silly gentlyRm C:\Users\Pavani Mehra\Desktop\dc\node_modules\node is being purged from base C:\Users\Pavani Mehra\Desktop\dc
+497 verbose gentlyRm don't care about contents; nuking C:\Users\Pavani Mehra\Desktop\dc\node_modules\node
+498 silly vacuum-fs purging C:\Users\Pavani Mehra\Desktop\dc\node_modules\node
+499 silly vacuum-fs quitting because other entries in C:\Users\Pavani Mehra\Desktop\dc\node_modules
